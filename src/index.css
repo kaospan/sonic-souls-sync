@@ -2,41 +2,65 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
-All colors MUST be HSL.
-*/
+/* Music-focused social network design system */
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    /* Dark music theme */
+    --background: 220 15% 8%;
+    --foreground: 0 0% 98%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card: 220 15% 12%;
+    --card-foreground: 0 0% 95%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover: 220 15% 10%;
+    --popover-foreground: 0 0% 98%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    /* Music streaming inspired colors */
+    --primary: 270 100% 70%;
+    --primary-foreground: 0 0% 100%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 220 15% 18%;
+    --secondary-foreground: 0 0% 90%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --muted: 220 15% 16%;
+    --muted-foreground: 215 20% 65%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 300 80% 60%;
+    --accent-foreground: 0 0% 100%;
 
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive: 0 75% 60%;
+    --destructive-foreground: 0 0% 98%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 220 15% 20%;
+    --input: 220 15% 16%;
+    --ring: 270 100% 70%;
 
-    --radius: 0.5rem;
+    --radius: 0.75rem;
+
+    /* Music-specific design tokens */
+    --music-primary: 270 100% 70%;
+    --music-secondary: 300 80% 60%;
+    --music-tertiary: 200 100% 60%;
+    --music-glow: 270 100% 70%;
+    
+    /* Gradients */
+    --gradient-music: linear-gradient(135deg, hsl(270 100% 70%), hsl(300 80% 60%));
+    --gradient-hero: linear-gradient(135deg, hsl(270 100% 70%), hsl(300 80% 60%), hsl(200 100% 60%));
+    --gradient-card: linear-gradient(145deg, hsl(220 15% 12%), hsl(220 15% 16%));
+    
+    /* Glassmorphism effects */
+    --glass-bg: hsla(220, 15%, 12%, 0.8);
+    --glass-border: hsla(270, 100%, 70%, 0.2);
+    
+    /* Shadows and glows */
+    --shadow-music: 0 8px 32px hsla(270, 100%, 70%, 0.3);
+    --shadow-card: 0 4px 20px hsla(220, 15%, 5%, 0.5);
+    --glow-music: 0 0 20px hsla(270, 100%, 70%, 0.4);
+    
+    /* Animations */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 
     --sidebar-background: 0 0% 98%;
 

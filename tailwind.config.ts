@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				/* Music-specific colors */
+				music: {
+					primary: 'hsl(var(--music-primary))',
+					secondary: 'hsl(var(--music-secondary))',
+					tertiary: 'hsl(var(--music-tertiary))',
+					glow: 'hsl(var(--music-glow))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
@@ -62,6 +69,19 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				}
+			},
+			backgroundImage: {
+				'gradient-music': 'var(--gradient-music)',
+				'gradient-hero': 'var(--gradient-hero)',
+				'gradient-card': 'var(--gradient-card)'
+			},
+			boxShadow: {
+				'music': 'var(--shadow-music)',
+				'card': 'var(--shadow-card)',
+				'glow': 'var(--glow-music)'
+			},
+			backdropBlur: {
+				'glass': '12px'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',

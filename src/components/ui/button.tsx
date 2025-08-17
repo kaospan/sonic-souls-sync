@@ -20,6 +20,7 @@ const buttonVariants = cva(
         link: "text-primary underline-offset-4 hover:underline",
         music: "bg-gradient-music text-white hover:shadow-glow transition-all duration-300 hover:scale-105",
         musicGhost: "text-music-primary hover:bg-music-primary/10 hover:text-music-primary border border-music-primary/20",
+        musicPrimary: "bg-music-primary text-white hover:bg-music-primary/90 transition-all duration-300",
         hero: "bg-gradient-hero text-white shadow-music hover:shadow-glow transition-all duration-300 hover:scale-105 font-semibold",
       },
       size: {

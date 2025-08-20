@@ -119,14 +119,14 @@ const Index = () => {
 
       {/* Main Content */}
       <div className="container mx-auto px-4 py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
           {/* Left Sidebar - User Profile */}
-          <div className="lg:col-span-1">
+          <div className="lg:col-span-3">
             <UserProfile user={mockUser} recentTracks={mockRecentTracks} />
           </div>
 
           {/* Main Feed */}
-          <div className="lg:col-span-1 space-y-6">
+          <div className="lg:col-span-6 space-y-6">
             <CreatePost />
             
             <div className="space-y-6">
@@ -137,7 +137,7 @@ const Index = () => {
           </div>
 
           {/* Right Sidebar - Discovery */}
-          <div className="lg:col-span-1">
+          <div className="lg:col-span-3">
             <MusicDiscovery 
               nearbyUsers={mockNearbyUsers}
               trendingTracks={mockTrendingTracks}

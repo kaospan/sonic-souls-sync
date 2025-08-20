@@ -37,7 +37,7 @@ const UserProfile = ({ user, recentTracks }: UserProfileProps) => {
             <MapPin className="h-3 w-3" />
             {user.location}
           </div>
-          <p className="text-foreground mb-4">{user.bio}</p>
+          <p className="text-foreground mb-4 break-words overflow-hidden">{user.bio}</p>
           <div className="flex gap-4 text-sm">
             <div className="flex items-center gap-1">
               <Users className="h-4 w-4 text-music-primary" />

@@ -5,8 +5,8 @@ A music-social platform built with Vite, React, TypeScript, shadcn/ui, and Tailw
 ## Quick Start
 
 ```sh
-git clone https://github.com/kaospan/sonic-souls-sync.git
-cd sonic-souls-sync
+git clone https://github.com/kaospan/cladesync.git
+cd cladesync
 npm install
 npm run dev
 ```

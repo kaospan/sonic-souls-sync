@@ -1,11 +1,11 @@
 {
-  "name": "sonic-souls-sync",
+  "name": "cladesync",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kaospan/sonic-souls-sync.git"
+    "url": "https://github.com/kaospan/cladesync.git"
   },
   "scripts": {
     "dev": "vite",

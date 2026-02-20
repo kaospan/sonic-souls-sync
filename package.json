@@ -1,14 +1,21 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "sonic-souls-sync",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaospan/sonic-souls-sync.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "seed": "node scripts/seed.js",
+    "seed:400": "node scripts/seed.js --count=400",
+    "format": "npx prettier --write ."
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",

@@ -1,73 +1,86 @@
-# Welcome to your Lovable project
+# Sonic Souls Sync
 
-## Project info
+A music-social platform built with Vite, React, TypeScript, shadcn/ui, and Tailwind CSS.
 
-**URL**: https://lovable.dev/projects/282b1433-75b0-477d-ae5c-c6c8ab7bbb58
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/282b1433-75b0-477d-ae5c-c6c8ab7bbb58) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+## Quick Start
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+git clone https://github.com/kaospan/sonic-souls-sync.git
+cd sonic-souls-sync
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Open [http://localhost:5173](http://localhost:5173).
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Seed Data
 
-**Use GitHub Codespaces**
+Generate deterministic fake users & posts (no external dependencies):
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+```sh
+npm run seed          # 400 users (60% Israeli), writes scripts/seeds.json
+npm run seed:400      # explicit 400
+node scripts/seed.js --count=10  # smoke test
+```
 
-## What technologies are used for this project?
+The seed script uses a seeded PRNG (seed=42) so output is reproducible.
+`scripts/seeds_sample_preview.json` contains the first 20 users for quick review.
 
-This project is built with:
+## Mock Social Backend (dev only)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+In development (`npm run dev`) the app automatically patches `fetch` to intercept
+`/api/demo/*` requests and serve in-memory data from `scripts/seeds.json`.
 
-## How can I deploy this project?
+Available endpoints:
 
-Simply open [Lovable](https://lovable.dev/projects/282b1433-75b0-477d-ae5c-c6c8ab7bbb58) and click on Share -> Publish.
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/demo/users` | Paginated user list (`?page=&limit=`) |
+| GET | `/api/demo/users/:id` | Single user |
+| GET | `/api/demo/users/:id/posts` | Posts by user |
+| GET | `/api/demo/posts` | Paginated global feed |
+| GET | `/api/demo/stats` | Aggregate metrics (investor dashboard) |
+| POST | `/api/demo/users/:id/follow` | Follow a user (`{ followerId }`) |
+| POST | `/api/demo/users/:id/unfollow` | Unfollow a user |
+| POST | `/api/demo/posts/:id/like` | Increment like count |
+| POST | `/api/demo/posts/:id/comment` | Add a comment |
 
-## Can I connect a custom domain to my Lovable project?
+To enable in non-dev builds: `VITE_USE_MOCK=true npm run build`.
 
-Yes, you can!
+## Demo Pages
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Navigate to these routes in development:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+- `/demo-feed` — paginated music post feed with like/comment support
+- `/investor` — aggregate metrics dashboard (users, posts, likes, follow graph)
+
+A small floating nav appears in the bottom-right corner in dev mode.
+
+## CI & GitHub Pages
+
+GitHub Actions runs on every push and PR:
+
+1. **Setup** — `npm ci` with Node 18
+2. **Lint** — `npm run lint`
+3. **Build** — `npm run build`
+4. **Seed smoke test** — `node scripts/seed.js --count=10`
+5. **Deploy** (main branch only) — publishes `dist/` to GitHub Pages via `peaceiris/actions-gh-pages`
+
+## Tech Stack
+
+- [Vite](https://vitejs.dev/) + [React 18](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [shadcn/ui](https://ui.shadcn.com/) component library
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TanStack Query](https://tanstack.com/query)
+- [React Router v6](https://reactrouter.com/)
+- [DiceBear](https://www.dicebear.com/) avatar URLs (no binary images committed)
+
+## Next Steps
+
+- [ ] **Supabase integration** — replace mock server with real Postgres + Auth
+- [ ] **E2E tests** — Playwright/Cypress covering feed, follow, like flows
+- [ ] **Analytics** — PostHog or Mixpanel event tracking
+- [ ] **Audio playback** — integrate Web Audio API or HLS player
+- [ ] **Notifications** — real-time follow/like alerts via Supabase Realtime
+

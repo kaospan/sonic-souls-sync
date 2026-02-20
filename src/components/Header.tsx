@@ -12,7 +12,7 @@ const Header = () => {
         <Link to="/" className="flex items-center gap-2">
           <Music className="h-8 w-8 text-music-primary" />
           <span className="text-xl font-bold bg-gradient-music bg-clip-text text-transparent">
-            SonicSync
+            CladeSync
           </span>
         </Link>
         
@@ -48,6 +48,14 @@ const Header = () => {
             }`}
           >
             Profile
+          </Link>
+          <Link 
+            to="/artists" 
+            className={`text-sm font-medium transition-colors hover:text-music-primary ${
+              location.pathname === '/artists' ? 'text-music-primary' : 'text-muted-foreground'
+            }`}
+          >
+            Artists
           </Link>
         </nav>
         

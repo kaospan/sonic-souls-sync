@@ -1,0 +1,2147 @@
+[
+  {
+    "id": "2cc086ce-45f2-4fef-b000-78e93ffbe1ce",
+    "username": "rotem_brown0",
+    "displayName": "Rotem Brown",
+    "bio": "Jazz aficionado with a modern twist",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=rotem_brown0-0",
+    "createdAt": "2024-10-19T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "d4739dd0-cb4d-420b-b000-b10eaa78d43c",
+        "userId": "2cc086ce-45f2-4fef-b000-78e93ffbe1ce",
+        "title": "City Lights",
+        "description": "Minimal techno for maximum impact",
+        "audioUrl": "https://example.com/audio/2cc086ce-45f2-4fef-b000-78e93ffbe1ce-track-1.mp3",
+        "likes": 145,
+        "comments": [
+          {
+            "id": "6c814c19-5fa8-40c0-a000-189059693d0b",
+            "userId": "3cb8f76f-2f5d-49be-9000-e97aab6becf9",
+            "username": "blake_cohen379",
+            "text": "So good!",
+            "createdAt": "2025-07-31T11:11:12.886Z"
+          },
+          {
+            "id": "f2976a1e-8244-4be7-a000-a6ccd2109ca5",
+            "userId": "a6db9a7e-fd1d-4027-b000-3950f21a4e67",
+            "username": "rina_garcia48",
+            "text": "Sharing this with everyone I know",
+            "createdAt": "2025-08-23T11:11:12.886Z"
+          },
+          {
+            "id": "ede0f9f3-9035-4b0d-b000-6ccde74b1743",
+            "userId": "715a9da9-b79f-4492-8000-2ae718f91f03",
+            "username": "oren_azouri26",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-02-28T11:11:12.886Z"
+          },
+          {
+            "id": "61181e01-d811-4439-a000-b72df6749a1e",
+            "userId": "2007a627-47f7-4b02-9000-b32022f7b558",
+            "username": "michal_williams51",
+            "text": "This hits different",
+            "createdAt": "2026-01-30T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2026-02-05T11:11:12.886Z"
+      },
+      {
+        "id": "6e622fa8-1713-498f-8000-37e77a70f9ff",
+        "userId": "2cc086ce-45f2-4fef-b000-78e93ffbe1ce",
+        "title": "Urban Pulse",
+        "description": "Inspired by late-night sessions",
+        "audioUrl": "https://example.com/audio/2cc086ce-45f2-4fef-b000-78e93ffbe1ce-track-2.mp3",
+        "likes": 274,
+        "comments": [
+          {
+            "id": "a12d1d8a-eb8f-4ebe-9000-32c1e054ee74",
+            "userId": "80a529c5-1cbd-4ed4-a000-52cda5f5f251",
+            "username": "cameron_levy364",
+            "text": "Love this track",
+            "createdAt": "2025-03-26T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2026-01-14T11:11:12.886Z"
+      },
+      {
+        "id": "52a762ac-987b-42a9-b000-73917913c518",
+        "userId": "2cc086ce-45f2-4fef-b000-78e93ffbe1ce",
+        "title": "Frequency Shift",
+        "description": "Layered textures and deep bass",
+        "audioUrl": "https://example.com/audio/2cc086ce-45f2-4fef-b000-78e93ffbe1ce-track-3.mp3",
+        "likes": 352,
+        "comments": [
+          {
+            "id": "2639ac08-f713-4b52-b000-25f88b1ae2a0",
+            "userId": "5f1c1b12-9cdc-4697-a000-5e4039023778",
+            "username": "rina_kim220",
+            "text": "So good!",
+            "createdAt": "2025-06-20T11:11:12.886Z"
+          },
+          {
+            "id": "9dbad729-9270-4ba9-9000-9b1c3d3c362f",
+            "userId": "a342e645-44dc-4e9b-9000-a09f11e2472d",
+            "username": "dana_martinez123",
+            "text": "More please!",
+            "createdAt": "2025-06-29T11:11:12.886Z"
+          },
+          {
+            "id": "dd8dc08c-e674-4b09-b000-c9344ff29ed2",
+            "userId": "715a9da9-b79f-4492-8000-2ae718f91f03",
+            "username": "oren_azouri26",
+            "text": "Keep it up!",
+            "createdAt": "2025-05-13T11:11:12.886Z"
+          },
+          {
+            "id": "6509ec71-4358-4c1f-9000-5c5e2e3e71a9",
+            "userId": "013f3a82-5c11-4604-8000-daba76e86c06",
+            "username": "alex_cohen327",
+            "text": "This hits different",
+            "createdAt": "2025-10-18T11:11:12.886Z"
+          },
+          {
+            "id": "e18305a1-9251-40b0-9000-a3b0088739e6",
+            "userId": "a5b80c83-d818-406e-9000-3bdf867e7f1b",
+            "username": "jordan_brown305",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-10-04T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-11-03T11:11:12.886Z"
+      },
+      {
+        "id": "b18a2b3d-320e-4793-a000-3247be07deb2",
+        "userId": "2cc086ce-45f2-4fef-b000-78e93ffbe1ce",
+        "title": "Desert Sunrise",
+        "description": "Inspired by late-night sessions",
+        "audioUrl": "https://example.com/audio/2cc086ce-45f2-4fef-b000-78e93ffbe1ce-track-4.mp3",
+        "likes": 138,
+        "comments": [
+          {
+            "id": "b030f81b-8c8f-4573-9000-03d4c687c491",
+            "userId": "57fedff0-8a55-4a34-8000-cf8df470c2bf",
+            "username": "noam_mizrahi109",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-10-27T11:11:12.886Z"
+          },
+          {
+            "id": "d9a426a5-4be7-4b40-8000-bba44d88eb0c",
+            "userId": "ed6226b2-7814-4544-b000-88b5e89abfe4",
+            "username": "casey_peretz272",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-06-02T11:11:12.886Z"
+          },
+          {
+            "id": "37d3e4e3-abd6-4a54-8000-b72275599639",
+            "userId": "a9523f3b-4df7-451e-8000-e53cfcfea47b",
+            "username": "dana_smith76",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2026-01-06T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-08-10T11:11:12.886Z"
+      },
+      {
+        "id": "3195f531-8579-4ffa-8000-d3bb5806c9a9",
+        "userId": "2cc086ce-45f2-4fef-b000-78e93ffbe1ce",
+        "title": "Morning Groove",
+        "description": "Inspired by late-night sessions",
+        "audioUrl": "https://example.com/audio/2cc086ce-45f2-4fef-b000-78e93ffbe1ce-track-5.mp3",
+        "likes": 120,
+        "comments": [],
+        "createdAt": "2025-05-04T11:11:12.886Z"
+      }
+    ],
+    "followingIds": []
+  },
+  {
+    "id": "9c5100fb-7885-465b-8000-97a208124457",
+    "username": "eitan_shapiro1",
+    "displayName": "Eitan Shapiro",
+    "bio": "Music lover and creator 🎵",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=eitan_shapiro1-1",
+    "createdAt": "2024-10-06T11:11:12.883Z",
+    "posts": [],
+    "followingIds": [
+      "80a529c5-1cbd-4ed4-a000-52cda5f5f251",
+      "928343e8-536b-4092-8000-d8587f107100",
+      "5da96f7e-c142-4219-9000-9e4b66594060",
+      "51306dcb-0b53-4b44-b000-d76410d94f23",
+      "896102a2-dd82-4f06-a000-347bfc263aa1",
+      "8363632b-dae1-4f9f-8000-3d80d88ed66e",
+      "e9a1cfcb-707a-4775-b000-8692d722e4fe",
+      "5fd0a2ab-f976-48d8-b000-bd4e041aaf23",
+      "7f0a18c5-24d1-4878-b000-a369124de7b4",
+      "198b48a7-a77b-4a72-8000-4ffdc81af92d",
+      "e56c58c1-e63a-409d-b000-dedc61d9afe7",
+      "bcb6c932-f800-4523-a000-e896f3fb861c"
+    ]
+  },
+  {
+    "id": "2c4ad7ba-7cdc-4f1c-9000-732c09950d28",
+    "username": "noam_mller2",
+    "displayName": "Noam Müller",
+    "bio": "Indie artist on a journey",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=noam_mller2-2",
+    "createdAt": "2026-01-31T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "c2f68539-9539-49f2-9000-7210b6353b6f",
+        "userId": "2c4ad7ba-7cdc-4f1c-9000-732c09950d28",
+        "title": "Electric Soul",
+        "description": "Minimal techno for maximum impact",
+        "audioUrl": "https://example.com/audio/2c4ad7ba-7cdc-4f1c-9000-732c09950d28-track-1.mp3",
+        "likes": 76,
+        "comments": [
+          {
+            "id": "21021db2-1397-4809-a000-69624a07cf93",
+            "userId": "689eff41-38c0-4dd3-8000-27910c621f07",
+            "username": "oren_garcia56",
+            "text": "Love this track",
+            "createdAt": "2025-12-08T11:11:12.886Z"
+          },
+          {
+            "id": "5eacae61-524e-430a-8000-8d0d127f18d5",
+            "userId": "81ce61c7-d65d-48f4-9000-f2bc9e20bde7",
+            "username": "rina_johnson203",
+            "text": "Absolutely stunning",
+            "createdAt": "2026-01-04T11:11:12.886Z"
+          },
+          {
+            "id": "74812e40-53bf-4b9e-b000-45dedf970b30",
+            "userId": "5e7a79ab-26a5-4b09-a000-1e5a26f308ce",
+            "username": "noa_cohen155",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-08-07T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-11-20T11:11:12.886Z"
+      }
+    ],
+    "followingIds": [
+      "5e7a79ab-26a5-4b09-a000-1e5a26f308ce",
+      "9b53fe43-b325-4b38-9000-28a2fbf847a5",
+      "6c36c0ed-c267-4245-a000-1eb78a72047a",
+      "631972cf-22c8-4ed1-8000-70b81e35f95e",
+      "14795f33-06e6-46d9-9000-f286f08d6130",
+      "26fd100b-6acd-4aaf-8000-f245e37b91d6"
+    ]
+  },
+  {
+    "id": "4dbabd16-dbd4-420c-8000-48c14b01131f",
+    "username": "dani_goldberg3",
+    "displayName": "Dani Goldberg",
+    "bio": "Bass-heavy vibes only",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=dani_goldberg3-3",
+    "createdAt": "2025-09-20T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "caa21fa0-f010-4764-b000-284f397c8524",
+        "userId": "4dbabd16-dbd4-420c-8000-48c14b01131f",
+        "title": "Inner Rhythm",
+        "description": "Soulful vocals over driving beats",
+        "audioUrl": "https://example.com/audio/4dbabd16-dbd4-420c-8000-48c14b01131f-track-1.mp3",
+        "likes": 16,
+        "comments": [
+          {
+            "id": "fecb1313-f37d-4065-9000-61e2642f81b2",
+            "userId": "a25c7a32-6666-4273-9000-b7198c36f909",
+            "username": "rotem_garcia152",
+            "text": "More please!",
+            "createdAt": "2025-06-02T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-04-23T11:11:12.886Z"
+      },
+      {
+        "id": "ad8b0546-70f8-4f9d-b000-c0ed51167b13",
+        "userId": "4dbabd16-dbd4-420c-8000-48c14b01131f",
+        "title": "Mediterranean Beat",
+        "description": "Layered textures and deep bass",
+        "audioUrl": "https://example.com/audio/4dbabd16-dbd4-420c-8000-48c14b01131f-track-2.mp3",
+        "likes": 395,
+        "comments": [
+          {
+            "id": "0134e8d0-57e5-4234-a000-7bfef6833cc2",
+            "userId": "c086f0b9-67bf-4046-8000-e6da92c52c80",
+            "username": "oren_shapiro53",
+            "text": "Sharing this with everyone I know",
+            "createdAt": "2025-08-10T11:11:12.886Z"
+          },
+          {
+            "id": "d21101f0-1182-4dd2-a000-b3750eb4e808",
+            "userId": "51604a5f-7770-4cea-b000-f3ca0e314dd5",
+            "username": "dana_kim214",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-08-25T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2026-01-20T11:11:12.886Z"
+      },
+      {
+        "id": "1c13b685-9cef-4f3e-9000-bae17bee6e49",
+        "userId": "4dbabd16-dbd4-420c-8000-48c14b01131f",
+        "title": "Wave Collapse",
+        "description": "Raw and unfiltered expression",
+        "audioUrl": "https://example.com/audio/4dbabd16-dbd4-420c-8000-48c14b01131f-track-3.mp3",
+        "likes": 474,
+        "comments": [
+          {
+            "id": "d2a0ad71-ae33-473f-a000-232ef79d410a",
+            "userId": "53e98215-b7e0-4b3e-a000-7241aceefa40",
+            "username": "noa_levy201",
+            "text": "Love this track",
+            "createdAt": "2026-01-05T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-06-04T11:11:12.886Z"
+      }
+    ],
+    "followingIds": [
+      "82a6f952-c394-43f2-8000-26b71818ccdc",
+      "b7cc9a60-39b7-400d-b000-e5c2a32c48e6",
+      "29d7a798-55ff-44fa-a000-e30a538dcadc",
+      "7053c82c-2d74-4704-a000-7339e748b6c0",
+      "be302ba2-6ae3-4cd5-8000-9519d5276de8",
+      "5e7a79ab-26a5-4b09-a000-1e5a26f308ce",
+      "ec576a8d-3592-4d87-9000-bfe1cbea7de5"
+    ]
+  },
+  {
+    "id": "f1986e5f-f13a-4325-8000-040e5c467b52",
+    "username": "itay_kim4",
+    "displayName": "Itay Kim",
+    "bio": "Bass-heavy vibes only",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=itay_kim4-4",
+    "createdAt": "2025-12-17T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "a6701b4d-7559-453b-a000-0060a56df728",
+        "userId": "f1986e5f-f13a-4325-8000-040e5c467b52",
+        "title": "Mediterranean Beat",
+        "description": "Soulful vocals over driving beats",
+        "audioUrl": "https://example.com/audio/f1986e5f-f13a-4325-8000-040e5c467b52-track-1.mp3",
+        "likes": 171,
+        "comments": [
+          {
+            "id": "253aa6bf-762a-4796-8000-3af9fd2ea1a1",
+            "userId": "896102a2-dd82-4f06-a000-347bfc263aa1",
+            "username": "blake_brown277",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-03-06T11:11:12.886Z"
+          },
+          {
+            "id": "e9e8513c-38f4-428d-b000-02f442825be7",
+            "userId": "de3d4038-cb1e-4f21-8000-b1a31e00bfb6",
+            "username": "chris_bendavid324",
+            "text": "Sharing this with everyone I know",
+            "createdAt": "2025-09-16T11:11:12.886Z"
+          },
+          {
+            "id": "257b3b9b-2bcc-4af5-a000-8a7f456c24b7",
+            "userId": "8b9b84b1-258e-4b92-b000-23f728cfa29b",
+            "username": "dana_bendavid194",
+            "text": "Absolutely stunning",
+            "createdAt": "2026-01-22T11:11:12.886Z"
+          },
+          {
+            "id": "0ab1e930-f881-4587-9000-647ff4aab82d",
+            "userId": "52785248-66a1-4523-b000-6687d1dd0a67",
+            "username": "rina_peretz225",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-04-20T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2026-02-02T11:11:12.886Z"
+      },
+      {
+        "id": "b7a78705-6699-4f04-b000-890908b7124d",
+        "userId": "f1986e5f-f13a-4325-8000-040e5c467b52",
+        "title": "Frequency Shift",
+        "description": "Soulful vocals over driving beats",
+        "audioUrl": "https://example.com/audio/f1986e5f-f13a-4325-8000-040e5c467b52-track-2.mp3",
+        "likes": 481,
+        "comments": [
+          {
+            "id": "932fb65b-3003-462f-8000-a7d420249869",
+            "userId": "5f1c1b12-9cdc-4697-a000-5e4039023778",
+            "username": "rina_kim220",
+            "text": "Love this track",
+            "createdAt": "2025-03-05T11:11:12.886Z"
+          },
+          {
+            "id": "73e048f4-69de-4176-9000-5d84a1bfdeeb",
+            "userId": "ab5cd7aa-db91-4b1b-8000-93322b0a7c67",
+            "username": "dylan_garcia376",
+            "text": "So good!",
+            "createdAt": "2025-05-20T11:11:12.886Z"
+          },
+          {
+            "id": "aacc7408-7ff9-4843-8000-d18328680e22",
+            "userId": "9c44b0dc-fcb0-4784-b000-39b6faaa56b5",
+            "username": "shira_mizrahi140",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-10-14T11:11:12.886Z"
+          },
+          {
+            "id": "851d3c21-58e2-4f03-8000-fdcca2a33d5e",
+            "userId": "9bf4fbee-dda4-45f8-8000-3744fd0c8c57",
+            "username": "reese_garcia294",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-06-29T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2026-01-04T11:11:12.886Z"
+      },
+      {
+        "id": "314cae72-5159-41ea-9000-a8e6322cbc54",
+        "userId": "f1986e5f-f13a-4325-8000-040e5c467b52",
+        "title": "Tel Aviv Nights",
+        "description": "An exploration of ambient soundscapes",
+        "audioUrl": "https://example.com/audio/f1986e5f-f13a-4325-8000-040e5c467b52-track-3.mp3",
+        "likes": 451,
+        "comments": [
+          {
+            "id": "6e969cc2-7447-4832-8000-8e51f2f43594",
+            "userId": "1112199c-a192-482e-8000-339f5960d9c2",
+            "username": "chris_johnson397",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-06-22T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2026-02-01T11:11:12.886Z"
+      },
+      {
+        "id": "6e90fcde-64e5-46f6-a000-8f0fbf704e97",
+        "userId": "f1986e5f-f13a-4325-8000-040e5c467b52",
+        "title": "Frequency Shift",
+        "description": "Inspired by late-night sessions",
+        "audioUrl": "https://example.com/audio/f1986e5f-f13a-4325-8000-040e5c467b52-track-4.mp3",
+        "likes": 37,
+        "comments": [
+          {
+            "id": "8a116ab4-a8f2-44b1-a000-5b9ad9d21d4f",
+            "userId": "9a2eb60e-b63a-459d-9000-7a7ab140179b",
+            "username": "oren_johnson113",
+            "text": "More please!",
+            "createdAt": "2025-09-20T11:11:12.886Z"
+          },
+          {
+            "id": "28790ca3-96c3-400b-b000-6f89f85a9f87",
+            "userId": "7b24422d-b357-460e-8000-b0af988465a4",
+            "username": "shira_bendavid166",
+            "text": "Sharing this with everyone I know",
+            "createdAt": "2025-04-20T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-09-21T11:11:12.886Z"
+      }
+    ],
+    "followingIds": [
+      "7b7ecdde-51cb-464a-a000-8857f2ee9f38",
+      "61d47eb3-a4e4-447d-9000-25f14fe4dd03",
+      "81ce61c7-d65d-48f4-9000-f2bc9e20bde7",
+      "a2510a1b-c35d-4294-a000-06ee3deeb779",
+      "c10e2331-553e-4a18-8000-170390fc0987",
+      "f80e7b3a-b780-4bb2-b000-4414d31b5d72",
+      "103f5d04-d48e-4e71-8000-76dedda572f5",
+      "26fd100b-6acd-4aaf-8000-f245e37b91d6",
+      "4ff1012d-a907-4429-9000-e600cbe2cc5e",
+      "ce9015c5-0c56-4d0f-b000-fbdc9a1e2949",
+      "cce7bdce-7d17-4230-b000-90f6cc37a19c",
+      "93688ab5-991f-4909-b000-2035bae51b2a",
+      "d5026f88-22f7-4187-b000-ae94b7b7a161",
+      "cffa3388-b37b-4386-a000-7bf35a6a53d8",
+      "7fd2998e-f4e3-46bc-9000-4de065c262d9",
+      "a0586af3-acf6-4512-8000-0da90b4a8c96",
+      "14795f33-06e6-46d9-9000-f286f08d6130",
+      "ae0bf793-008e-4a4e-b000-23a8ee28d305",
+      "f3bc4429-84b3-4c29-b000-af5a918bcf56",
+      "de3d4038-cb1e-4f21-8000-b1a31e00bfb6"
+    ]
+  },
+  {
+    "id": "473bb4e2-2dfb-4533-b000-1edffee29013",
+    "username": "dana_levy5",
+    "displayName": "Dana Levy",
+    "bio": "From Tel Aviv to the world",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=dana_levy5-5",
+    "createdAt": "2024-04-08T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "6a9d3e04-8355-401a-b000-d46e50480693",
+        "userId": "473bb4e2-2dfb-4533-b000-1edffee29013",
+        "title": "Lost in Sound",
+        "description": "Raw and unfiltered expression",
+        "audioUrl": "https://example.com/audio/473bb4e2-2dfb-4533-b000-1edffee29013-track-1.mp3",
+        "likes": 38,
+        "comments": [
+          {
+            "id": "4a5f44db-c1c0-4d99-8000-6e0334130047",
+            "userId": "198b48a7-a77b-4a72-8000-4ffdc81af92d",
+            "username": "drew_smith288",
+            "text": "Amazing vibes",
+            "createdAt": "2025-03-22T11:11:12.886Z"
+          },
+          {
+            "id": "38389e28-b4b0-424f-a000-dfc901ee1963",
+            "userId": "b4c7559d-0ede-4276-9000-06b3f7134b70",
+            "username": "noam_williams235",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-03-27T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-07-26T11:11:12.886Z"
+      },
+      {
+        "id": "0119a84f-d9e7-495a-a000-7f70e6f83258",
+        "userId": "473bb4e2-2dfb-4533-b000-1edffee29013",
+        "title": "Digital Mirage",
+        "description": "Soulful vocals over driving beats",
+        "audioUrl": "https://example.com/audio/473bb4e2-2dfb-4533-b000-1edffee29013-track-2.mp3",
+        "likes": 178,
+        "comments": [
+          {
+            "id": "0e42954a-06f4-4f51-b000-817bd97a152f",
+            "userId": "ed6226b2-7814-4544-b000-88b5e89abfe4",
+            "username": "casey_peretz272",
+            "text": "More please!",
+            "createdAt": "2026-02-03T11:11:12.886Z"
+          },
+          {
+            "id": "b3cdc962-542b-4d59-9000-f88c88785941",
+            "userId": "5a4d84af-c17d-476a-9000-9de3cc949bb8",
+            "username": "noa_brown232",
+            "text": "So good!",
+            "createdAt": "2025-10-02T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-06-17T11:11:12.886Z"
+      },
+      {
+        "id": "d9f6a0f1-995a-4876-9000-54893afec9f5",
+        "userId": "473bb4e2-2dfb-4533-b000-1edffee29013",
+        "title": "Frequency Shift",
+        "description": "A tribute to the golden era of jazz",
+        "audioUrl": "https://example.com/audio/473bb4e2-2dfb-4533-b000-1edffee29013-track-3.mp3",
+        "likes": 49,
+        "comments": [
+          {
+            "id": "0909b618-a873-4b54-9000-6c622d935e11",
+            "userId": "25a02167-40c8-48b9-a000-fa065b305c00",
+            "username": "noa_martinez137",
+            "text": "More please!",
+            "createdAt": "2025-02-28T11:11:12.886Z"
+          },
+          {
+            "id": "6cf6af9b-7c7d-4dac-a000-cda0358a9d7d",
+            "userId": "8de58bc7-f78b-4bfc-b000-4f08a1adaafc",
+            "username": "oren_mller23",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-11-19T11:11:12.886Z"
+          },
+          {
+            "id": "d457460f-56d8-42e7-a000-3f151a13af7f",
+            "userId": "63bf8bb0-fc07-4df3-b000-d7dbbe5d0db5",
+            "username": "yael_patel14",
+            "text": "So good!",
+            "createdAt": "2025-08-06T11:11:12.886Z"
+          },
+          {
+            "id": "2820ef78-1248-419c-9000-aa62545cc245",
+            "userId": "6b397f3e-8888-4512-9000-25280bfb207f",
+            "username": "gal_johnson229",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-11-14T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-03-05T11:11:12.886Z"
+      }
+    ],
+    "followingIds": [
+      "7d2b9a30-b523-4fdc-b000-a16d5de1e737",
+      "f3c52079-c3fd-4d4c-a000-9af19c612981",
+      "3bb624ed-0051-4da3-8000-bf81c147a8dc",
+      "0e221f1f-164c-46e4-a000-c71818470d4b",
+      "f29417c6-6315-4839-a000-0d725ee9af17",
+      "a167f2e4-2c0c-4c8a-b000-ce553b920e53",
+      "2f8ad39b-3931-4fa5-9000-c4e492597e83",
+      "08109128-3b56-45a2-9000-c8790b76a470",
+      "e9a1cfcb-707a-4775-b000-8692d722e4fe",
+      "14795f33-06e6-46d9-9000-f286f08d6130",
+      "fb211071-4678-42c3-8000-ade1e738d697",
+      "d44858a7-3472-44a2-b000-722a7c34408f"
+    ]
+  },
+  {
+    "id": "52adbaba-4b92-4323-b000-b1effe77e3e4",
+    "username": "shira_martinez6",
+    "displayName": "Shira Martinez",
+    "bio": "Creating beats that move you",
+    "country": "IL",
+    "locale": "he-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=shira_martinez6-6",
+    "createdAt": "2024-12-11T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "d9140ad5-7b9b-458b-9000-380554c12d81",
+        "userId": "52adbaba-4b92-4323-b000-b1effe77e3e4",
+        "title": "Desert Sunrise",
+        "description": "Electronic beats meet organic instruments",
+        "audioUrl": "https://example.com/audio/52adbaba-4b92-4323-b000-b1effe77e3e4-track-1.mp3",
+        "likes": 323,
+        "comments": [],
+        "createdAt": "2025-07-03T11:11:12.886Z"
+      },
+      {
+        "id": "85b1d794-b8ab-4b5b-9000-f27ff8c37f6e",
+        "userId": "52adbaba-4b92-4323-b000-b1effe77e3e4",
+        "title": "Wave Collapse",
+        "description": "Raw and unfiltered expression",
+        "audioUrl": "https://example.com/audio/52adbaba-4b92-4323-b000-b1effe77e3e4-track-2.mp3",
+        "likes": 50,
+        "comments": [
+          {
+            "id": "0e958bbd-f1de-4cd0-b000-adfc97168e95",
+            "userId": "f187303d-01b6-4ada-8000-fcd1dbec83ae",
+            "username": "rotem_mller114",
+            "text": "Amazing vibes",
+            "createdAt": "2025-03-27T11:11:12.886Z"
+          },
+          {
+            "id": "3fd540da-1433-49b0-b000-a8fce307b870",
+            "userId": "6d3567c2-5a22-4dd4-a000-14a19f59a64a",
+            "username": "noa_patel65",
+            "text": "More please!",
+            "createdAt": "2025-03-11T11:11:12.886Z"
+          },
+          {
+            "id": "b96794f9-ead9-4698-8000-47f9867f8551",
+            "userId": "0e221f1f-164c-46e4-a000-c71818470d4b",
+            "username": "peyton_cohen346",
+            "text": "This hits different",
+            "createdAt": "2025-05-20T11:11:12.886Z"
+          },
+          {
+            "id": "43f29de6-c281-4b17-b000-3f6e3662752a",
+            "userId": "5f26bfa7-2b6c-4056-8000-d59152524de2",
+            "username": "tal_levy112",
+            "text": "Amazing vibes",
+            "createdAt": "2025-07-13T11:11:12.886Z"
+          },
+          {
+            "id": "2107479e-0e97-4e24-a000-8c58b0a48b5f",
+            "userId": "5f26bfa7-2b6c-4056-8000-d59152524de2",
+            "username": "tal_levy112",
+            "text": "Keep it up!",
+            "createdAt": "2025-06-01T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-09-16T11:11:12.886Z"
+      },
+      {
+        "id": "be88013d-f976-44d4-8000-acc1b7a6e7af",
+        "userId": "52adbaba-4b92-4323-b000-b1effe77e3e4",
+        "title": "Desert Sunrise",
+        "description": "A journey through rhythm and melody",
+        "audioUrl": "https://example.com/audio/52adbaba-4b92-4323-b000-b1effe77e3e4-track-3.mp3",
+        "likes": 487,
+        "comments": [
+          {
+            "id": "a1643a76-cfe0-46e4-8000-c638fa3243f2",
+            "userId": "c086f0b9-67bf-4046-8000-e6da92c52c80",
+            "username": "oren_shapiro53",
+            "text": "Keep it up!",
+            "createdAt": "2025-08-28T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-09-22T11:11:12.886Z"
+      }
+    ],
+    "followingIds": [
+      "ee0a51cf-d80d-4c43-9000-621c301b5951",
+      "63bf8bb0-fc07-4df3-b000-d7dbbe5d0db5",
+      "c18dfb0b-21cd-46b8-b000-c3d7ab021316",
+      "562b0773-388c-4e57-a000-fd1229f32bbb",
+      "3cb8f76f-2f5d-49be-9000-e97aab6becf9",
+      "eb7b9497-d9a4-4960-8000-4401f8c749a8"
+    ]
+  },
+  {
+    "id": "5034c933-e79f-47f8-9000-d26b2146f905",
+    "username": "maya_smith7",
+    "displayName": "Maya Smith",
+    "bio": "DJ | Producer | Dreamer",
+    "country": "IL",
+    "locale": "he-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=maya_smith7-7",
+    "createdAt": "2024-09-29T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "1590d20a-18d2-447b-a000-fcc5c46d7460",
+        "userId": "5034c933-e79f-47f8-9000-d26b2146f905",
+        "title": "Midnight Echoes",
+        "description": "An exploration of ambient soundscapes",
+        "audioUrl": "https://example.com/audio/5034c933-e79f-47f8-9000-d26b2146f905-track-1.mp3",
+        "likes": 144,
+        "comments": [
+          {
+            "id": "fef415e5-5b50-4991-9000-16b1094b0355",
+            "userId": "98aad5b6-6454-46be-8000-f9fd2e67aded",
+            "username": "tal_patel43",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-07-26T11:11:12.886Z"
+          },
+          {
+            "id": "5cecdd14-e32f-488c-9000-7161338e7578",
+            "userId": "d44858a7-3472-44a2-b000-722a7c34408f",
+            "username": "oren_kim34",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-03-01T11:11:12.886Z"
+          },
+          {
+            "id": "61082658-7f2d-4d23-8000-4e65442d2f27",
+            "userId": "5f1c1b12-9cdc-4697-a000-5e4039023778",
+            "username": "rina_kim220",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-10-28T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-07-02T11:11:12.886Z"
+      },
+      {
+        "id": "126dbc71-824d-449e-9000-1596fe181528",
+        "userId": "5034c933-e79f-47f8-9000-d26b2146f905",
+        "title": "Mountain Echo",
+        "description": "Raw and unfiltered expression",
+        "audioUrl": "https://example.com/audio/5034c933-e79f-47f8-9000-d26b2146f905-track-2.mp3",
+        "likes": 179,
+        "comments": [
+          {
+            "id": "0f4dbb4e-c916-439b-a000-9aa0da536e5a",
+            "userId": "8a0606bb-4678-4c15-a000-93ba2d605474",
+            "username": "jamie_peretz358",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-09-12T11:11:12.886Z"
+          },
+          {
+            "id": "aa11b463-921e-460a-9000-af124defec55",
+            "userId": "53dfd730-7429-4c50-a000-402327f85fdc",
+            "username": "oren_azouri40",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-09-28T11:11:12.886Z"
+          },
+          {
+            "id": "2d3eff88-745b-41d0-8000-534f2b45a941",
+            "userId": "fdd0bd66-e0ad-412f-9000-ddc8f3cfabbb",
+            "username": "dana_smith132",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-10-10T11:11:12.886Z"
+          },
+          {
+            "id": "908e30b0-f957-493e-a000-0b1789f3ea31",
+            "userId": "7e2f5f94-5f7d-4fb0-8000-616a62f10c21",
+            "username": "sam_brown286",
+            "text": "Keep it up!",
+            "createdAt": "2025-09-12T11:11:12.886Z"
+          },
+          {
+            "id": "7d941340-32e6-48a8-9000-31a997713bef",
+            "userId": "a4a07f2c-a1dc-403e-b000-2b0a78450d64",
+            "username": "oren_johnson226",
+            "text": "More please!",
+            "createdAt": "2025-10-15T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2026-01-05T11:11:12.886Z"
+      },
+      {
+        "id": "fe6cd6f9-3568-4fc1-9000-1b976a619dea",
+        "userId": "5034c933-e79f-47f8-9000-d26b2146f905",
+        "title": "Frequency Shift",
+        "description": "Minimal techno for maximum impact",
+        "audioUrl": "https://example.com/audio/5034c933-e79f-47f8-9000-d26b2146f905-track-3.mp3",
+        "likes": 323,
+        "comments": [
+          {
+            "id": "c0ad53f2-e5e1-419b-8000-307430d83975",
+            "userId": "81dad8c1-9b6b-43d3-9000-f0a3cfddcb5a",
+            "username": "eitan_williams210",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-07-11T11:11:12.886Z"
+          },
+          {
+            "id": "93810ed9-f7dd-4f96-b000-855eb0a39a48",
+            "userId": "d374587f-32c0-4e1b-a000-0cc7a04c96f1",
+            "username": "michal_patel45",
+            "text": "So good!",
+            "createdAt": "2025-12-19T11:11:12.886Z"
+          },
+          {
+            "id": "25aa2997-bb81-4821-a000-a3ce482e1ddb",
+            "userId": "9c44b0dc-fcb0-4784-b000-39b6faaa56b5",
+            "username": "shira_mizrahi140",
+            "text": "Keep it up!",
+            "createdAt": "2025-03-27T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2026-02-15T11:11:12.886Z"
+      },
+      {
+        "id": "7dc324e6-2028-4c1f-8000-824876de92b4",
+        "userId": "5034c933-e79f-47f8-9000-d26b2146f905",
+        "title": "City Lights",
+        "description": "Electronic beats meet organic instruments",
+        "audioUrl": "https://example.com/audio/5034c933-e79f-47f8-9000-d26b2146f905-track-4.mp3",
+        "likes": 284,
+        "comments": [
+          {
+            "id": "f385129b-5a67-4692-a000-87f49c30eb2b",
+            "userId": "c33c30ad-4deb-4b64-8000-2f16a0303215",
+            "username": "oren_brown216",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-07-01T11:11:12.886Z"
+          },
+          {
+            "id": "f02f56b7-04b2-47cb-9000-05ffc02a3959",
+            "userId": "e2a20888-472c-4877-a000-dd1cd4ad357c",
+            "username": "morgan_smith264",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-09-23T11:11:12.886Z"
+          },
+          {
+            "id": "d108c3dd-66cb-4d56-b000-06455c5a25b4",
+            "userId": "fb211071-4678-42c3-8000-ade1e738d697",
+            "username": "itay_rosenberg190",
+            "text": "Pure fire 🎵",
+            "createdAt": "2026-01-01T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-05-17T11:11:12.886Z"
+      }
+    ],
+    "followingIds": [
+      "05a8d680-b64b-406f-8000-7822bbfed106",
+      "475b4297-b86f-44e0-9000-97881becc82d",
+      "102e4f64-dcb5-4d1d-8000-997ef4105f01",
+      "08109128-3b56-45a2-9000-c8790b76a470",
+      "b4aa5fea-af7a-4ae1-a000-05553812988e",
+      "40658103-0a7d-4a75-8000-e6b1c360a86d",
+      "782ca71e-bb1c-418d-8000-cc496e378306",
+      "33401392-08cb-41af-8000-f041e646657f",
+      "cce7bdce-7d17-4230-b000-90f6cc37a19c",
+      "a3c0b123-aa88-4441-a000-af88e9981926",
+      "78127584-6cd0-44f8-9000-25cc812d4474",
+      "3d2b5d69-51e6-4e2c-b000-0b136e88d2fa",
+      "fa443cbc-41e4-4528-a000-95ed47a996a0",
+      "21964939-9f86-4aee-a000-f6ce7e5edbb9"
+    ]
+  },
+  {
+    "id": "29d7a798-55ff-44fa-a000-e30a538dcadc",
+    "username": "michal_kim8",
+    "displayName": "Michal Kim",
+    "bio": "Guitar and soul",
+    "country": "IL",
+    "locale": "he-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=michal_kim8-8",
+    "createdAt": "2025-04-24T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "c6fb3040-bc0b-477b-a000-21b9e14a74c5",
+        "userId": "29d7a798-55ff-44fa-a000-e30a538dcadc",
+        "title": "Ancient Melody",
+        "description": "Minimal techno for maximum impact",
+        "audioUrl": "https://example.com/audio/29d7a798-55ff-44fa-a000-e30a538dcadc-track-1.mp3",
+        "likes": 426,
+        "comments": [
+          {
+            "id": "c3808c9e-f74f-4ffb-b000-b41fdb758077",
+            "userId": "cce7bdce-7d17-4230-b000-90f6cc37a19c",
+            "username": "michal_kim211",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-03-27T11:11:12.886Z"
+          },
+          {
+            "id": "7d82b4f7-b2e8-41d7-b000-f6e29e43cdde",
+            "userId": "ab5cd7aa-db91-4b1b-8000-93322b0a7c67",
+            "username": "dylan_garcia376",
+            "text": "Keep it up!",
+            "createdAt": "2025-05-05T11:11:12.886Z"
+          },
+          {
+            "id": "11110c50-616c-4c0b-8000-1fb7bc201281",
+            "userId": "288e2be7-bf5b-41b5-9000-0e789a23a9da",
+            "username": "tal_bendavid124",
+            "text": "More please!",
+            "createdAt": "2025-10-21T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2025-09-21T11:11:12.886Z"
+      },
+      {
+        "id": "0893d843-708e-4f14-b000-f19b4cea2c38",
+        "userId": "29d7a798-55ff-44fa-a000-e30a538dcadc",
+        "title": "Deep Blue",
+        "description": "A journey through rhythm and melody",
+        "audioUrl": "https://example.com/audio/29d7a798-55ff-44fa-a000-e30a538dcadc-track-2.mp3",
+        "likes": 470,
+        "comments": [
+          {
+            "id": "38d3ef4f-85b5-4593-9000-d6726f4c803e",
+            "userId": "6c36c0ed-c267-4245-a000-1eb78a72047a",
+            "username": "logan_brown398",
+            "text": "So good!",
+            "createdAt": "2025-10-11T11:11:12.886Z"
+          },
+          {
+            "id": "5fd7d1a6-2c01-4f38-b000-93a475f6e419",
+            "userId": "69396941-4ac3-4df5-9000-308fa4ffca70",
+            "username": "lior_martinez70",
+            "text": "Amazing vibes",
+            "createdAt": "2025-02-23T11:11:12.886Z"
+          },
+          {
+            "id": "8c668623-caf1-486d-a000-b50089612525",
+            "userId": "4d98514f-554a-4373-a000-2c0257cb770c",
+            "username": "cameron_johnson394",
+            "text": "More please!",
+            "createdAt": "2025-07-25T11:11:12.886Z"
+          },
+          {
+            "id": "3552ed11-7d8f-46ad-9000-5827daaa5b23",
+            "userId": "5e3e4511-3507-4796-a000-27ca41de09cc",
+            "username": "michal_jones68",
+            "text": "Love this track",
+            "createdAt": "2026-02-14T11:11:12.886Z"
+          },
+          {
+            "id": "4a25e110-3ded-419d-9000-7ed37e2ef5eb",
+            "userId": "2007a627-47f7-4b02-9000-b32022f7b558",
+            "username": "michal_williams51",
+            "text": "So good!",
+            "createdAt": "2025-10-02T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2026-02-12T11:11:12.886Z"
+      },
+      {
+        "id": "5aef6e52-353d-497f-b000-316d28ae628d",
+        "userId": "29d7a798-55ff-44fa-a000-e30a538dcadc",
+        "title": "Future Waves",
+        "description": "Electronic beats meet organic instruments",
+        "audioUrl": "https://example.com/audio/29d7a798-55ff-44fa-a000-e30a538dcadc-track-3.mp3",
+        "likes": 130,
+        "comments": [],
+        "createdAt": "2025-05-30T11:11:12.886Z"
+      }
+    ],
+    "followingIds": [
+      "3598ced7-dd4e-423d-a000-ff631444a7b5",
+      "3b839c6c-d2ba-4226-b000-569e3743abeb",
+      "f1986e5f-f13a-4325-8000-040e5c467b52",
+      "6aec25bb-70b6-48e4-a000-f9620786fc50",
+      "80a529c5-1cbd-4ed4-a000-52cda5f5f251",
+      "05a8d680-b64b-406f-8000-7822bbfed106",
+      "9d4967b6-ba06-46ee-9000-626d306c6e5f",
+      "c1d1ef7c-8069-4c06-8000-d612fa27b993",
+      "781524e8-e4f9-47bc-8000-b921c71eb8f2",
+      "3020f4ac-cc49-42dc-b000-fa704686c4e7",
+      "572c3d7a-3adc-4d89-a000-d70a5774a62e",
+      "b8193ec3-4284-4974-8000-f5b2285e8ff9",
+      "31004361-031f-4c15-9000-40a2db43e14c",
+      "5e4b333b-bd3d-45b9-a000-38a5c76c4c2b",
+      "d49d9fe4-6120-4318-8000-d7bed0819a70",
+      "12057dcb-31ad-4d7d-b000-4a23d3574c30",
+      "4bf88e96-8f99-45c7-a000-5b6c2fa6d291"
+    ]
+  },
+  {
+    "id": "bcc7a2a0-e03c-487d-8000-9a9b7d3e2f1c",
+    "username": "yael_azouri9",
+    "displayName": "Yael Azouri",
+    "bio": "Music lover and creator 🎵",
+    "country": "IL",
+    "locale": "he-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=yael_azouri9-9",
+    "createdAt": "2026-02-13T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "c162c41b-b89a-44a9-9000-4f9a3f895885",
+        "userId": "bcc7a2a0-e03c-487d-8000-9a9b7d3e2f1c",
+        "title": "Mediterranean Beat",
+        "description": "Minimal techno for maximum impact",
+        "audioUrl": "https://example.com/audio/bcc7a2a0-e03c-487d-8000-9a9b7d3e2f1c-track-1.mp3",
+        "likes": 125,
+        "comments": [
+          {
+            "id": "f1d4fea0-e925-45ef-a000-764ba2324e44",
+            "userId": "65130d6f-6200-4b5e-9000-0432f65ac400",
+            "username": "rina_jones59",
+            "text": "So good!",
+            "createdAt": "2025-03-15T11:11:12.886Z"
+          },
+          {
+            "id": "99fbe335-aecf-4976-b000-f5f1aa3642fb",
+            "userId": "de3d4038-cb1e-4f21-8000-b1a31e00bfb6",
+            "username": "chris_bendavid324",
+            "text": "This hits different",
+            "createdAt": "2025-10-08T11:11:12.886Z"
+          }
+        ],
+        "createdAt": "2026-01-26T11:11:12.886Z"
+      },
+      {
+        "id": "e289c612-5f4c-4f37-a000-887aa4890312",
+        "userId": "bcc7a2a0-e03c-487d-8000-9a9b7d3e2f1c",
+        "title": "Lost in Sound",
+        "description": "Raw and unfiltered expression",
+        "audioUrl": "https://example.com/audio/bcc7a2a0-e03c-487d-8000-9a9b7d3e2f1c-track-2.mp3",
+        "likes": 289,
+        "comments": [
+          {
+            "id": "60144572-a173-449a-8000-484bf2456e1b",
+            "userId": "a95f17bb-9282-4b0f-9000-f3347b533c68",
+            "username": "robin_cohen248",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-07-08T11:11:12.886Z"
+          },
+          {
+            "id": "6199b5d0-5ae1-4a42-b000-46c4987b68e2",
+            "userId": "5f1c1b12-9cdc-4697-a000-5e4039023778",
+            "username": "rina_kim220",
+            "text": "So good!",
+            "createdAt": "2026-01-05T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-08-20T11:11:12.887Z"
+      },
+      {
+        "id": "0cfcc4ed-08cf-4160-b000-0966e491e227",
+        "userId": "bcc7a2a0-e03c-487d-8000-9a9b7d3e2f1c",
+        "title": "Lost in Sound",
+        "description": "Fusion of Middle Eastern scales and modern production",
+        "audioUrl": "https://example.com/audio/bcc7a2a0-e03c-487d-8000-9a9b7d3e2f1c-track-3.mp3",
+        "likes": 49,
+        "comments": [
+          {
+            "id": "e36c2288-11aa-42f4-9000-18304ae928c2",
+            "userId": "654a8085-05d1-406c-a000-0ac54d755747",
+            "username": "taylor_patel243",
+            "text": "Amazing vibes",
+            "createdAt": "2025-05-30T11:11:12.887Z"
+          },
+          {
+            "id": "64f77d37-c81c-4b89-a000-6f1d3fcbf888",
+            "userId": "57e45489-e5ee-4e78-8000-54fc2b8d94b6",
+            "username": "yael_shapiro84",
+            "text": "Keep it up!",
+            "createdAt": "2025-07-03T11:11:12.887Z"
+          },
+          {
+            "id": "86c2c467-4101-499b-b000-9597092984df",
+            "userId": "832f79b2-7356-43c2-8000-b55200f2b0eb",
+            "username": "tal_martinez36",
+            "text": "More please!",
+            "createdAt": "2025-12-15T11:11:12.887Z"
+          },
+          {
+            "id": "3ce150db-17b4-446c-9000-642042021149",
+            "userId": "5fd0a2ab-f976-48d8-b000-bd4e041aaf23",
+            "username": "tal_bendavid41",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-07-14T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-05-10T11:11:12.887Z"
+      }
+    ],
+    "followingIds": [
+      "793c7f17-137c-40cf-9000-db909ee5a1e0",
+      "ae08b9e0-aa0a-4a3c-b000-80e2d097c267",
+      "5648c24b-4f02-439c-9000-8563a86e53ab",
+      "d5026f88-22f7-4187-b000-ae94b7b7a161",
+      "8226637a-dae5-4085-8000-9b2304ce2134",
+      "14795f33-06e6-46d9-9000-f286f08d6130",
+      "483539ba-6f15-4ba6-b000-a1486aa3a248",
+      "a498e89e-1e46-4505-9000-a55a2c4c7b7b",
+      "f9d1da1f-e32a-4ef4-a000-8250d2a13613",
+      "26e9d589-ef88-4dec-b000-5a4e7953339c",
+      "fabef795-cfc8-4519-b000-28c816d8fe32",
+      "a64c124a-93cb-40b1-9000-b3c462302a72",
+      "3cb8f76f-2f5d-49be-9000-e97aab6becf9",
+      "7053c82c-2d74-4704-a000-7339e748b6c0",
+      "9bf4fbee-dda4-45f8-8000-3744fd0c8c57"
+    ]
+  },
+  {
+    "id": "562b0773-388c-4e57-a000-fd1229f32bbb",
+    "username": "michal_nguyen10",
+    "displayName": "Michal Nguyen",
+    "bio": "Indie artist on a journey",
+    "country": "IL",
+    "locale": "he-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=michal_nguyen10-10",
+    "createdAt": "2025-08-02T11:11:12.883Z",
+    "posts": [],
+    "followingIds": [
+      "cffc6b45-f8b6-4142-8000-bf9fe3d151f0",
+      "0e81f2f5-1698-4fd6-9000-776a43f00996",
+      "fcc05781-4c98-4204-a000-e49c54575e37",
+      "afa66604-560c-4548-9000-7ec99c618bde",
+      "e3b19333-5072-4b4f-9000-c5cc2a115aea",
+      "acb334e1-c529-4dc5-8000-a8ee9a508e30",
+      "16df06e4-0d5a-4d4f-9000-027cffecbc1e",
+      "f9d0e25b-e464-4541-8000-893b969476dd",
+      "62833a63-c625-4377-9000-4a7fcf4a7a1d",
+      "cacb0bec-6b0b-4d82-a000-516310a97bcb",
+      "6a35d5e5-c022-4b6d-a000-416f1f2b724a",
+      "d1b3160a-e037-47f8-b000-3e281e61d6cd",
+      "8909f5d9-c95b-4584-b000-621d23b3afc2",
+      "2cc086ce-45f2-4fef-b000-78e93ffbe1ce",
+      "7555b583-4fc7-45b8-a000-94dc7c4c9241",
+      "793c7f17-137c-40cf-9000-db909ee5a1e0",
+      "e7ea89da-c991-446e-8000-aaba72480e4d",
+      "a6796c7f-02d7-4a9c-8000-068ddac02d19",
+      "df01353c-fa6c-4e12-8000-fe66c4383b76",
+      "e28f1287-7a7d-429b-a000-d62ebb79ec05"
+    ]
+  },
+  {
+    "id": "afa66604-560c-4548-9000-7ec99c618bde",
+    "username": "tamar_williams11",
+    "displayName": "Tamar Williams",
+    "bio": "Indie artist on a journey",
+    "country": "IL",
+    "locale": "he-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=tamar_williams11-11",
+    "createdAt": "2025-04-20T11:11:12.883Z",
+    "posts": [],
+    "followingIds": [
+      "86dda9fd-d21a-4704-a000-758b637444c0",
+      "8ddfe0ec-3db2-49c6-8000-b07e77cc2c06",
+      "3d2b5d69-51e6-4e2c-b000-0b136e88d2fa"
+    ]
+  },
+  {
+    "id": "ab56388c-2b57-41ea-9000-1ffa50540adb",
+    "username": "noa_johnson12",
+    "displayName": "Noa Johnson",
+    "bio": "Indie artist on a journey",
+    "country": "IL",
+    "locale": "he-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=noa_johnson12-12",
+    "createdAt": "2025-06-30T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "10f912ff-0ee0-4362-a000-2468b85c57bb",
+        "userId": "ab56388c-2b57-41ea-9000-1ffa50540adb",
+        "title": "Frequency Shift",
+        "description": "A tribute to the golden era of jazz",
+        "audioUrl": "https://example.com/audio/ab56388c-2b57-41ea-9000-1ffa50540adb-track-1.mp3",
+        "likes": 320,
+        "comments": [
+          {
+            "id": "a5c14e2c-949a-4145-a000-890ee7e523f5",
+            "userId": "2598757e-a734-467a-8000-fa99ec0c6ebb",
+            "username": "dana_azouri66",
+            "text": "This hits different",
+            "createdAt": "2025-07-26T11:11:12.887Z"
+          },
+          {
+            "id": "e1ea209b-4cad-4a10-a000-03dcee14d65a",
+            "userId": "81dad8c1-9b6b-43d3-9000-f0a3cfddcb5a",
+            "username": "eitan_williams210",
+            "text": "Love this track",
+            "createdAt": "2025-03-04T11:11:12.887Z"
+          },
+          {
+            "id": "71abffb3-754b-4261-8000-d414cf8af2b3",
+            "userId": "5f26bfa7-2b6c-4056-8000-d59152524de2",
+            "username": "tal_levy112",
+            "text": "More please!",
+            "createdAt": "2026-01-19T11:11:12.887Z"
+          },
+          {
+            "id": "5cae7028-a9db-4c37-a000-8bb09c377897",
+            "userId": "bec4ce1a-bda0-490c-b000-8a185af62c7c",
+            "username": "alex_garcia372",
+            "text": "Keep it up!",
+            "createdAt": "2025-06-23T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-04-04T11:11:12.887Z"
+      }
+    ],
+    "followingIds": [
+      "ab5cd7aa-db91-4b1b-8000-93322b0a7c67",
+      "f0d969fe-278c-4a2e-9000-56562ebeeaf7",
+      "c33c30ad-4deb-4b64-8000-2f16a0303215",
+      "a0586af3-acf6-4512-8000-0da90b4a8c96",
+      "2f1532bd-820e-431e-9000-d4d0104f0a42",
+      "1f6a450c-7642-4a5b-9000-f35e0ea14824",
+      "ffd5765b-6bb8-49e5-8000-cbffab8a2dff",
+      "22ac02c0-f436-4beb-a000-173ea286b023",
+      "4d98514f-554a-4373-a000-2c0257cb770c",
+      "5a4d84af-c17d-476a-9000-9de3cc949bb8",
+      "69ca56f3-8869-4635-a000-de23b107269e",
+      "31004361-031f-4c15-9000-40a2db43e14c",
+      "eb7b9497-d9a4-4960-8000-4401f8c749a8",
+      "0b2ec098-933a-40c0-a000-e0453093d7bd"
+    ]
+  },
+  {
+    "id": "e9a1cfcb-707a-4775-b000-8692d722e4fe",
+    "username": "noa_jones13",
+    "displayName": "Noa Jones",
+    "bio": "Creating beats that move you",
+    "country": "IL",
+    "locale": "he-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=noa_jones13-13",
+    "createdAt": "2024-09-18T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "09e415f4-5a91-4b53-9000-3ca28dca76da",
+        "userId": "e9a1cfcb-707a-4775-b000-8692d722e4fe",
+        "title": "Desert Sunrise",
+        "description": "Layered textures and deep bass",
+        "audioUrl": "https://example.com/audio/e9a1cfcb-707a-4775-b000-8692d722e4fe-track-1.mp3",
+        "likes": 429,
+        "comments": [],
+        "createdAt": "2025-09-08T11:11:12.887Z"
+      },
+      {
+        "id": "75070dfd-164b-47ae-a000-64eea37dd7d3",
+        "userId": "e9a1cfcb-707a-4775-b000-8692d722e4fe",
+        "title": "Inner Rhythm",
+        "description": "Inspired by late-night sessions",
+        "audioUrl": "https://example.com/audio/e9a1cfcb-707a-4775-b000-8692d722e4fe-track-2.mp3",
+        "likes": 313,
+        "comments": [
+          {
+            "id": "402d7bba-692e-43c8-b000-01deb042895e",
+            "userId": "f0d969fe-278c-4a2e-9000-56562ebeeaf7",
+            "username": "dana_azouri115",
+            "text": "Amazing vibes",
+            "createdAt": "2025-07-06T11:11:12.887Z"
+          },
+          {
+            "id": "c7284dc5-a8de-41df-8000-08b4fbff3cab",
+            "userId": "28a60dd4-0546-45c8-8000-0b5313c649a3",
+            "username": "yonatan_patel98",
+            "text": "Sharing this with everyone I know",
+            "createdAt": "2025-03-08T11:11:12.887Z"
+          },
+          {
+            "id": "ff58b766-7f5b-477f-8000-38d640145a6a",
+            "userId": "20904ac4-4b7f-4155-a000-394d39b2558b",
+            "username": "yael_rosenberg138",
+            "text": "Absolutely stunning",
+            "createdAt": "2026-01-20T11:11:12.887Z"
+          },
+          {
+            "id": "03ba5b8f-c2a0-41df-a000-73f40fc95657",
+            "userId": "a6db9a7e-fd1d-4027-b000-3950f21a4e67",
+            "username": "rina_garcia48",
+            "text": "Amazing vibes",
+            "createdAt": "2025-08-24T11:11:12.887Z"
+          },
+          {
+            "id": "68f00fff-afc6-410d-b000-85af62dd7602",
+            "userId": "5655b078-aed8-457e-a000-bd16e1dcba1c",
+            "username": "cameron_patel258",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-12-20T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-11-14T11:11:12.887Z"
+      },
+      {
+        "id": "03373b5b-ad16-4369-8000-61b6e2740f52",
+        "userId": "e9a1cfcb-707a-4775-b000-8692d722e4fe",
+        "title": "Morning Groove",
+        "description": "Layered textures and deep bass",
+        "audioUrl": "https://example.com/audio/e9a1cfcb-707a-4775-b000-8692d722e4fe-track-3.mp3",
+        "likes": 481,
+        "comments": [
+          {
+            "id": "4ff82af0-c158-49d8-a000-724d1365499d",
+            "userId": "55d7a48c-975c-4cff-b000-df64bd5daa83",
+            "username": "tal_nguyen69",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-10-01T11:11:12.887Z"
+          },
+          {
+            "id": "548c625b-97bf-44c3-a000-2df841e26acf",
+            "userId": "08664530-b334-4509-b000-a047e8b0e35d",
+            "username": "amir_rosenberg27",
+            "text": "Sharing this with everyone I know",
+            "createdAt": "2026-01-29T11:11:12.887Z"
+          },
+          {
+            "id": "1c8bc494-8b23-48cb-8000-d1760c73a784",
+            "userId": "5a4d84af-c17d-476a-9000-9de3cc949bb8",
+            "username": "noa_brown232",
+            "text": "Sharing this with everyone I know",
+            "createdAt": "2025-10-28T11:11:12.887Z"
+          },
+          {
+            "id": "eaf0ab4c-5889-4ea4-9000-68f202f0fbab",
+            "userId": "26fd100b-6acd-4aaf-8000-f245e37b91d6",
+            "username": "avi_johnson168",
+            "text": "Keep it up!",
+            "createdAt": "2026-01-16T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-09-16T11:11:12.887Z"
+      },
+      {
+        "id": "8ff77895-89c1-4b5d-9000-bb0c12e81857",
+        "userId": "e9a1cfcb-707a-4775-b000-8692d722e4fe",
+        "title": "Future Waves",
+        "description": "Minimal techno for maximum impact",
+        "audioUrl": "https://example.com/audio/e9a1cfcb-707a-4775-b000-8692d722e4fe-track-4.mp3",
+        "likes": 304,
+        "comments": [],
+        "createdAt": "2025-09-17T11:11:12.887Z"
+      }
+    ],
+    "followingIds": []
+  },
+  {
+    "id": "63bf8bb0-fc07-4df3-b000-d7dbbe5d0db5",
+    "username": "yael_patel14",
+    "displayName": "Yael Patel",
+    "bio": "Sharing sonic experiences with the world",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=yael_patel14-14",
+    "createdAt": "2025-09-20T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "a9d20a5d-3152-45a2-a000-8714acf1d907",
+        "userId": "63bf8bb0-fc07-4df3-b000-d7dbbe5d0db5",
+        "title": "Digital Mirage",
+        "description": "Fusion of Middle Eastern scales and modern production",
+        "audioUrl": "https://example.com/audio/63bf8bb0-fc07-4df3-b000-d7dbbe5d0db5-track-1.mp3",
+        "likes": 259,
+        "comments": [
+          {
+            "id": "a71d17fa-3d9f-43db-a000-477be6d69bc7",
+            "userId": "3cb8f76f-2f5d-49be-9000-e97aab6becf9",
+            "username": "blake_cohen379",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-11-18T11:11:12.887Z"
+          },
+          {
+            "id": "b70728a9-a4e0-47eb-a000-d9a1622b45c0",
+            "userId": "282274c6-15d4-4914-a000-05c5aed150d7",
+            "username": "oren_martinez142",
+            "text": "So good!",
+            "createdAt": "2026-02-09T11:11:12.887Z"
+          },
+          {
+            "id": "2cff747a-5c38-4818-b000-91c30f2b86c4",
+            "userId": "036eb10f-caef-4a1d-b000-8fa02ccbd100",
+            "username": "eitan_garcia158",
+            "text": "Love this track",
+            "createdAt": "2025-05-20T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-11-23T11:11:12.887Z"
+      },
+      {
+        "id": "01d53045-152d-49f8-9000-c645db889243",
+        "userId": "63bf8bb0-fc07-4df3-b000-d7dbbe5d0db5",
+        "title": "Ancient Melody",
+        "description": "Layered textures and deep bass",
+        "audioUrl": "https://example.com/audio/63bf8bb0-fc07-4df3-b000-d7dbbe5d0db5-track-2.mp3",
+        "likes": 301,
+        "comments": [
+          {
+            "id": "4dd4534b-78dc-467f-a000-2a9d0632a0fe",
+            "userId": "38bec07e-6b1b-46ea-8000-562cb7990380",
+            "username": "quinn_patel245",
+            "text": "Love this track",
+            "createdAt": "2025-05-27T11:11:12.887Z"
+          },
+          {
+            "id": "b975634c-d561-4299-8000-bafb1c249dbb",
+            "userId": "79d3b2d8-013c-45a1-9000-da11b01af2ab",
+            "username": "yael_bendavid213",
+            "text": "Love this track",
+            "createdAt": "2025-06-22T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2026-01-06T11:11:12.887Z"
+      }
+    ],
+    "followingIds": [
+      "12702af7-ed34-4dac-a000-a940f00f67e8"
+    ]
+  },
+  {
+    "id": "fdd0d0e3-a1b1-4644-b000-997159e07268",
+    "username": "noam_garcia15",
+    "displayName": "Noam Garcia",
+    "bio": "From Tel Aviv to the world",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=noam_garcia15-15",
+    "createdAt": "2024-08-13T11:11:12.883Z",
+    "posts": [
+      {
+        "id": "a2e59dfd-e6ce-4309-b000-ba786659e987",
+        "userId": "fdd0d0e3-a1b1-4644-b000-997159e07268",
+        "title": "Digital Mirage",
+        "description": "Fusion of Middle Eastern scales and modern production",
+        "audioUrl": "https://example.com/audio/fdd0d0e3-a1b1-4644-b000-997159e07268-track-1.mp3",
+        "likes": 143,
+        "comments": [
+          {
+            "id": "5be654ed-7b21-4071-b000-64dfdede21b7",
+            "userId": "473bb4e2-2dfb-4533-b000-1edffee29013",
+            "username": "dana_levy5",
+            "text": "Keep it up!",
+            "createdAt": "2025-11-12T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2026-01-18T11:11:12.887Z"
+      },
+      {
+        "id": "da811f3f-ca1f-4845-9000-82333af9bb15",
+        "userId": "fdd0d0e3-a1b1-4644-b000-997159e07268",
+        "title": "Frequency Shift",
+        "description": "A tribute to the golden era of jazz",
+        "audioUrl": "https://example.com/audio/fdd0d0e3-a1b1-4644-b000-997159e07268-track-2.mp3",
+        "likes": 146,
+        "comments": [],
+        "createdAt": "2025-11-12T11:11:12.887Z"
+      },
+      {
+        "id": "58ecf8a7-79db-4cd0-8000-a2ac5fe848bf",
+        "userId": "fdd0d0e3-a1b1-4644-b000-997159e07268",
+        "title": "Future Waves",
+        "description": "Raw and unfiltered expression",
+        "audioUrl": "https://example.com/audio/fdd0d0e3-a1b1-4644-b000-997159e07268-track-3.mp3",
+        "likes": 443,
+        "comments": [
+          {
+            "id": "9855a9f6-8784-433a-b000-e4f463d139a0",
+            "userId": "ec576a8d-3592-4d87-9000-bfe1cbea7de5",
+            "username": "michal_johnson128",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-05-15T11:11:12.887Z"
+          },
+          {
+            "id": "1a138411-3c05-4863-b000-545dcdfce05a",
+            "userId": "51604a5f-7770-4cea-b000-f3ca0e314dd5",
+            "username": "dana_kim214",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-06-10T11:11:12.887Z"
+          },
+          {
+            "id": "d1de6679-a197-4fce-8000-8f2d33f13208",
+            "userId": "5fd0a2ab-f976-48d8-b000-bd4e041aaf23",
+            "username": "tal_bendavid41",
+            "text": "Love this track",
+            "createdAt": "2025-07-17T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-07-14T11:11:12.887Z"
+      },
+      {
+        "id": "48f01905-15ad-47d8-a000-877000782d16",
+        "userId": "fdd0d0e3-a1b1-4644-b000-997159e07268",
+        "title": "Digital Mirage",
+        "description": "Fusion of Middle Eastern scales and modern production",
+        "audioUrl": "https://example.com/audio/fdd0d0e3-a1b1-4644-b000-997159e07268-track-4.mp3",
+        "likes": 28,
+        "comments": [
+          {
+            "id": "8a6fb392-3a25-476b-8000-2b0fdc0d01d7",
+            "userId": "e2ebf916-47f1-4d76-a000-16bafecc0ec1",
+            "username": "jordan_garcia268",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-06-08T11:11:12.887Z"
+          },
+          {
+            "id": "bb866dfe-37e3-4364-8000-8862db3a0c4d",
+            "userId": "e56c58c1-e63a-409d-b000-dedc61d9afe7",
+            "username": "quinn_brown347",
+            "text": "So good!",
+            "createdAt": "2025-08-28T11:11:12.887Z"
+          },
+          {
+            "id": "eea76e9d-10ca-417e-b000-860403d11a35",
+            "userId": "4ae81867-d608-46da-8000-bc269d6883d0",
+            "username": "amir_azouri117",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2026-01-20T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-09-14T11:11:12.887Z"
+      }
+    ],
+    "followingIds": [
+      "9a2eb60e-b63a-459d-9000-7a7ab140179b",
+      "88e40b5e-49ac-4766-b000-915688083245",
+      "0478161e-6f02-4fe9-b000-d37e8e893853",
+      "00f625ee-f178-41bd-b000-6e2e80a1194a",
+      "7e2f5f94-5f7d-4fb0-8000-616a62f10c21",
+      "2b751ae5-15c6-4447-8000-5978cf571e00",
+      "f29417c6-6315-4839-a000-0d725ee9af17",
+      "c04eace3-1ca8-4a92-8000-be9cee849438",
+      "29d7a798-55ff-44fa-a000-e30a538dcadc",
+      "3b839c6c-d2ba-4226-b000-569e3743abeb",
+      "7d02267b-3d7e-4888-8000-ef5a449407f0"
+    ]
+  },
+  {
+    "id": "544fd83c-26ce-4da1-8000-15e3a5ccb9f3",
+    "username": "itay_johnson16",
+    "displayName": "Itay Johnson",
+    "bio": "Hip-hop heads unite",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=itay_johnson16-16",
+    "createdAt": "2024-11-20T11:11:12.884Z",
+    "posts": [
+      {
+        "id": "57cd71b4-0bcc-44d5-9000-055693ff23a3",
+        "userId": "544fd83c-26ce-4da1-8000-15e3a5ccb9f3",
+        "title": "Mountain Echo",
+        "description": "Soulful vocals over driving beats",
+        "audioUrl": "https://example.com/audio/544fd83c-26ce-4da1-8000-15e3a5ccb9f3-track-1.mp3",
+        "likes": 10,
+        "comments": [
+          {
+            "id": "87dedecb-be68-4e35-b000-64f24f177625",
+            "userId": "53918507-d07f-4373-9000-cbe857bb563c",
+            "username": "riley_martinez247",
+            "text": "So good!",
+            "createdAt": "2025-09-16T11:11:12.887Z"
+          },
+          {
+            "id": "f3cbe79d-0194-44b7-b000-b4becf35b103",
+            "userId": "928343e8-536b-4092-8000-d8587f107100",
+            "username": "peyton_williams317",
+            "text": "Sharing this with everyone I know",
+            "createdAt": "2025-03-13T11:11:12.887Z"
+          },
+          {
+            "id": "5b36dab9-8d54-477a-a000-8b6efedb36bb",
+            "userId": "de3d4038-cb1e-4f21-8000-b1a31e00bfb6",
+            "username": "chris_bendavid324",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-03-06T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-06-18T11:11:12.887Z"
+      },
+      {
+        "id": "041c0674-823e-4f33-a000-62255bb5ab62",
+        "userId": "544fd83c-26ce-4da1-8000-15e3a5ccb9f3",
+        "title": "Tel Aviv Nights",
+        "description": "Inspired by late-night sessions",
+        "audioUrl": "https://example.com/audio/544fd83c-26ce-4da1-8000-15e3a5ccb9f3-track-2.mp3",
+        "likes": 166,
+        "comments": [
+          {
+            "id": "42089b9f-9380-4b18-8000-a19623b33448",
+            "userId": "86dda9fd-d21a-4704-a000-758b637444c0",
+            "username": "tamar_cohen129",
+            "text": "Love this track",
+            "createdAt": "2025-10-23T11:11:12.887Z"
+          },
+          {
+            "id": "8a1a745b-ba4c-42a1-a000-69ca946edd92",
+            "userId": "b2fd367f-2f6a-49ee-b000-6148f0852da4",
+            "username": "yonatan_patel102",
+            "text": "So good!",
+            "createdAt": "2025-06-29T11:11:12.887Z"
+          },
+          {
+            "id": "85824c33-d23e-4a6a-9000-869ca878d781",
+            "userId": "b4c7559d-0ede-4276-9000-06b3f7134b70",
+            "username": "noam_williams235",
+            "text": "This hits different",
+            "createdAt": "2025-12-29T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-05-16T11:11:12.887Z"
+      },
+      {
+        "id": "e0e6a206-ec60-4702-9000-f77f8fc3e7e0",
+        "userId": "544fd83c-26ce-4da1-8000-15e3a5ccb9f3",
+        "title": "City Lights",
+        "description": "Raw and unfiltered expression",
+        "audioUrl": "https://example.com/audio/544fd83c-26ce-4da1-8000-15e3a5ccb9f3-track-3.mp3",
+        "likes": 202,
+        "comments": [
+          {
+            "id": "96e7df17-a9dc-4254-8000-da3138c14ff2",
+            "userId": "42f38c58-5bdb-44eb-a000-e4aaae717a86",
+            "username": "taylor_levy259",
+            "text": "Absolutely stunning",
+            "createdAt": "2026-01-11T11:11:12.887Z"
+          },
+          {
+            "id": "3fbb3222-058f-4c78-b000-14e78e82d3ca",
+            "userId": "08664530-b334-4509-b000-a047e8b0e35d",
+            "username": "amir_rosenberg27",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-07-31T11:11:12.887Z"
+          },
+          {
+            "id": "54eb5b42-638e-44f4-9000-6a166b740ef6",
+            "userId": "69396941-4ac3-4df5-9000-308fa4ffca70",
+            "username": "lior_martinez70",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-10-17T11:11:12.887Z"
+          },
+          {
+            "id": "8f97e608-1d6a-4132-a000-68b9a2d8e4df",
+            "userId": "d49d9fe4-6120-4318-8000-d7bed0819a70",
+            "username": "jamie_azouri382",
+            "text": "Sharing this with everyone I know",
+            "createdAt": "2025-12-09T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-06-19T11:11:12.887Z"
+      },
+      {
+        "id": "ea8b2a97-1b26-4c07-a000-e4f8656a137a",
+        "userId": "544fd83c-26ce-4da1-8000-15e3a5ccb9f3",
+        "title": "Mountain Echo",
+        "description": "Layered textures and deep bass",
+        "audioUrl": "https://example.com/audio/544fd83c-26ce-4da1-8000-15e3a5ccb9f3-track-4.mp3",
+        "likes": 455,
+        "comments": [
+          {
+            "id": "7255c36c-1bea-49b1-a000-99967de623ca",
+            "userId": "ecd8208d-bdcd-4af5-9000-127bc374466f",
+            "username": "yonatan_azouri219",
+            "text": "Keep it up!",
+            "createdAt": "2025-08-26T11:11:12.887Z"
+          },
+          {
+            "id": "d69a05d5-9924-4b15-a000-b79b675efd91",
+            "userId": "832f79b2-7356-43c2-8000-b55200f2b0eb",
+            "username": "tal_martinez36",
+            "text": "Love this track",
+            "createdAt": "2025-04-18T11:11:12.887Z"
+          },
+          {
+            "id": "d7216c15-1641-4476-9000-f00e56bae97b",
+            "userId": "efda5f83-d3f4-42d4-8000-fa50e4977a31",
+            "username": "sam_nguyen378",
+            "text": "So good!",
+            "createdAt": "2025-12-01T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-06-05T11:11:12.887Z"
+      },
+      {
+        "id": "be887db6-1836-4f7a-a000-e4c17e988a08",
+        "userId": "544fd83c-26ce-4da1-8000-15e3a5ccb9f3",
+        "title": "Midnight Echoes",
+        "description": "Raw and unfiltered expression",
+        "audioUrl": "https://example.com/audio/544fd83c-26ce-4da1-8000-15e3a5ccb9f3-track-5.mp3",
+        "likes": 166,
+        "comments": [
+          {
+            "id": "7d279220-ef5e-477a-b000-03e0b414e683",
+            "userId": "6d1447db-d5e4-4b38-a000-0e5fef1b563f",
+            "username": "yonatan_goldberg96",
+            "text": "So good!",
+            "createdAt": "2025-03-24T11:11:12.887Z"
+          },
+          {
+            "id": "1837987b-9c2d-47e4-b000-e867299e0695",
+            "userId": "2b751ae5-15c6-4447-8000-5978cf571e00",
+            "username": "yael_kim118",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-09-02T11:11:12.887Z"
+          },
+          {
+            "id": "1b7cab04-d429-46e6-a000-f4488d127fa5",
+            "userId": "9c44e384-a493-4814-b000-e304fd648f73",
+            "username": "avery_bendavid359",
+            "text": "Keep it up!",
+            "createdAt": "2026-01-22T11:11:12.887Z"
+          },
+          {
+            "id": "71704f0c-ab71-4b50-9000-fe37dc3031ea",
+            "userId": "b8c8643d-7a92-454e-8000-c93c62271a3c",
+            "username": "reese_bendavid260",
+            "text": "Amazing vibes",
+            "createdAt": "2025-03-29T11:11:12.887Z"
+          },
+          {
+            "id": "0c8d660a-9033-4137-b000-c0fe5f9c4ffb",
+            "userId": "63985eca-5a8f-4496-8000-1d93a24ae82d",
+            "username": "logan_shapiro375",
+            "text": "Love this track",
+            "createdAt": "2026-02-05T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-12-03T11:11:12.887Z"
+      }
+    ],
+    "followingIds": [
+      "9a2eb60e-b63a-459d-9000-7a7ab140179b",
+      "d5026f88-22f7-4187-b000-ae94b7b7a161",
+      "08109128-3b56-45a2-9000-c8790b76a470",
+      "9dad77c2-d0e0-4594-8000-5882e27adbc6",
+      "cffa3388-b37b-4386-a000-7bf35a6a53d8",
+      "5034c933-e79f-47f8-9000-d26b2146f905",
+      "d374587f-32c0-4e1b-a000-0cc7a04c96f1",
+      "16e71432-713d-4093-9000-0f0cf06bfa8f",
+      "5648c24b-4f02-439c-9000-8563a86e53ab",
+      "25a02167-40c8-48b9-a000-fa065b305c00",
+      "c04eace3-1ca8-4a92-8000-be9cee849438",
+      "6c5373f5-c0af-4c3c-a000-6a6158036815",
+      "cb238a8c-ed6e-40b0-8000-e1d3e7530980",
+      "8226637a-dae5-4085-8000-9b2304ce2134",
+      "288e2be7-bf5b-41b5-9000-0e789a23a9da"
+    ]
+  },
+  {
+    "id": "45e9239e-0c34-4a7d-9000-919ab764cb27",
+    "username": "dana_jones17",
+    "displayName": "Dana Jones",
+    "bio": "Jazz aficionado with a modern twist",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=dana_jones17-17",
+    "createdAt": "2025-11-06T11:11:12.884Z",
+    "posts": [
+      {
+        "id": "aea6fffc-255a-464e-b000-ca236cbbaa0d",
+        "userId": "45e9239e-0c34-4a7d-9000-919ab764cb27",
+        "title": "Midnight Echoes",
+        "description": "Fusion of Middle Eastern scales and modern production",
+        "audioUrl": "https://example.com/audio/45e9239e-0c34-4a7d-9000-919ab764cb27-track-1.mp3",
+        "likes": 4,
+        "comments": [],
+        "createdAt": "2025-03-29T11:11:12.887Z"
+      },
+      {
+        "id": "ac7dfaed-4104-43fd-a000-6bda117c8460",
+        "userId": "45e9239e-0c34-4a7d-9000-919ab764cb27",
+        "title": "City Lights",
+        "description": "A journey through rhythm and melody",
+        "audioUrl": "https://example.com/audio/45e9239e-0c34-4a7d-9000-919ab764cb27-track-2.mp3",
+        "likes": 235,
+        "comments": [
+          {
+            "id": "5d3029d5-8dd0-41e6-a000-9bc7c1946cbb",
+            "userId": "483539ba-6f15-4ba6-b000-a1486aa3a248",
+            "username": "oren_nguyen90",
+            "text": "Love this track",
+            "createdAt": "2025-05-23T11:11:12.887Z"
+          },
+          {
+            "id": "fbfad008-33be-4b28-8000-e46999c573be",
+            "userId": "7053c82c-2d74-4704-a000-7339e748b6c0",
+            "username": "sam_mller366",
+            "text": "This hits different",
+            "createdAt": "2025-05-11T11:11:12.887Z"
+          },
+          {
+            "id": "5d096fd2-5dad-4416-8000-e71a5fe30457",
+            "userId": "8226637a-dae5-4085-8000-9b2304ce2134",
+            "username": "rina_azouri71",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-08-19T11:11:12.887Z"
+          },
+          {
+            "id": "d5934540-93cf-4fc6-a000-a8ec6cd99ecd",
+            "userId": "787a0166-a90d-4145-a000-5a586ce70d46",
+            "username": "logan_patel387",
+            "text": "Love this track",
+            "createdAt": "2026-01-16T11:11:12.887Z"
+          },
+          {
+            "id": "0c619b1f-5fec-46e5-8000-d5b308fb3378",
+            "userId": "26fd100b-6acd-4aaf-8000-f245e37b91d6",
+            "username": "avi_johnson168",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-08-17T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-06-11T11:11:12.887Z"
+      },
+      {
+        "id": "c596fc28-3e58-4a96-8000-0785e44b3cf6",
+        "userId": "45e9239e-0c34-4a7d-9000-919ab764cb27",
+        "title": "Deep Blue",
+        "description": "Layered textures and deep bass",
+        "audioUrl": "https://example.com/audio/45e9239e-0c34-4a7d-9000-919ab764cb27-track-3.mp3",
+        "likes": 42,
+        "comments": [
+          {
+            "id": "f91b24dc-3de6-4a3a-8000-c8aa5ff1ec03",
+            "userId": "8d3d197b-d8c8-4547-a000-9d0f3c787ec9",
+            "username": "cameron_johnson390",
+            "text": "More please!",
+            "createdAt": "2025-03-23T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-09-17T11:11:12.887Z"
+      },
+      {
+        "id": "e0420384-f890-402f-8000-5bac54fa88e6",
+        "userId": "45e9239e-0c34-4a7d-9000-919ab764cb27",
+        "title": "Wave Collapse",
+        "description": "Minimal techno for maximum impact",
+        "audioUrl": "https://example.com/audio/45e9239e-0c34-4a7d-9000-919ab764cb27-track-4.mp3",
+        "likes": 330,
+        "comments": [
+          {
+            "id": "7f2f8f1d-0d87-4ff6-a000-c33835e712ce",
+            "userId": "3f8f0ecb-e801-4947-8000-cc3475cc134f",
+            "username": "shira_nguyen231",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-07-29T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-05-11T11:11:12.887Z"
+      },
+      {
+        "id": "0f7da785-5cf6-4637-a000-e6541a0c76e9",
+        "userId": "45e9239e-0c34-4a7d-9000-919ab764cb27",
+        "title": "Ancient Melody",
+        "description": "A journey through rhythm and melody",
+        "audioUrl": "https://example.com/audio/45e9239e-0c34-4a7d-9000-919ab764cb27-track-5.mp3",
+        "likes": 427,
+        "comments": [
+          {
+            "id": "a5e902d1-2763-4834-b000-280b9d5fa0cc",
+            "userId": "d393a315-a1fa-45d0-8000-d97a6dc7ba2b",
+            "username": "itay_rosenberg236",
+            "text": "Love this track",
+            "createdAt": "2025-08-20T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-05-24T11:11:12.887Z"
+      }
+    ],
+    "followingIds": [
+      "c33c30ad-4deb-4b64-8000-2f16a0303215",
+      "c5850009-0f76-4876-b000-000408df8621",
+      "282274c6-15d4-4914-a000-05c5aed150d7",
+      "7b9ef643-f97d-41ee-a000-3087e101cd34",
+      "e7ea89da-c991-446e-8000-aaba72480e4d",
+      "81dad8c1-9b6b-43d3-9000-f0a3cfddcb5a",
+      "781524e8-e4f9-47bc-8000-b921c71eb8f2",
+      "8909f5d9-c95b-4584-b000-621d23b3afc2",
+      "493bc857-1c6b-4da8-8000-35c20eade659",
+      "53e98215-b7e0-4b3e-a000-7241aceefa40",
+      "8df1d461-abab-4ff6-9000-6343bf7c6a88",
+      "8226637a-dae5-4085-8000-9b2304ce2134",
+      "9ad368bb-695b-4441-b000-f990c7b16fa6"
+    ]
+  },
+  {
+    "id": "78127584-6cd0-44f8-9000-25cc812d4474",
+    "username": "noam_kim18",
+    "displayName": "Noam Kim",
+    "bio": "Music is my language",
+    "country": "IL",
+    "locale": "ar-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=noam_kim18-18",
+    "createdAt": "2025-04-02T11:11:12.884Z",
+    "posts": [
+      {
+        "id": "3217a1cf-bf99-4ba9-b000-b3d569f8ea0f",
+        "userId": "78127584-6cd0-44f8-9000-25cc812d4474",
+        "title": "Morning Groove",
+        "description": "Electronic beats meet organic instruments",
+        "audioUrl": "https://example.com/audio/78127584-6cd0-44f8-9000-25cc812d4474-track-1.mp3",
+        "likes": 454,
+        "comments": [
+          {
+            "id": "2b133be5-992d-4963-a000-b40a75b88ff7",
+            "userId": "972331d1-229a-4511-a000-482dec5df17c",
+            "username": "dani_brown46",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-04-17T11:11:12.887Z"
+          },
+          {
+            "id": "584306ce-f03d-45df-9000-734902fd6c2e",
+            "userId": "f29417c6-6315-4839-a000-0d725ee9af17",
+            "username": "riley_shapiro351",
+            "text": "Amazing vibes",
+            "createdAt": "2025-02-23T11:11:12.887Z"
+          },
+          {
+            "id": "d6b814d0-9f2a-4bbb-b000-bed2c6116c9c",
+            "userId": "26e9d589-ef88-4dec-b000-5a4e7953339c",
+            "username": "jamie_shapiro333",
+            "text": "This hits different",
+            "createdAt": "2025-08-20T11:11:12.887Z"
+          },
+          {
+            "id": "4531b596-4617-4b02-a000-a29528a60f71",
+            "userId": "29d7a798-55ff-44fa-a000-e30a538dcadc",
+            "username": "michal_kim8",
+            "text": "Love this track",
+            "createdAt": "2025-05-30T11:11:12.887Z"
+          },
+          {
+            "id": "ab980289-0ea3-4519-9000-81ecfecc55a7",
+            "userId": "7beefd4b-fb68-4baf-a000-bbab01601782",
+            "username": "itay_martinez146",
+            "text": "More please!",
+            "createdAt": "2025-03-26T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-09-10T11:11:12.887Z"
+      },
+      {
+        "id": "26f9c4fd-c30c-4d0c-a000-d478440c488b",
+        "userId": "78127584-6cd0-44f8-9000-25cc812d4474",
+        "title": "Ancient Melody",
+        "description": "Layered textures and deep bass",
+        "audioUrl": "https://example.com/audio/78127584-6cd0-44f8-9000-25cc812d4474-track-2.mp3",
+        "likes": 125,
+        "comments": [],
+        "createdAt": "2025-03-10T11:11:12.887Z"
+      }
+    ],
+    "followingIds": [
+      "08664530-b334-4509-b000-a047e8b0e35d",
+      "83e39ce9-57b8-4818-a000-40e87d8a3a1a",
+      "51c9b862-f29f-4270-b000-2ac84c1478e9",
+      "475b4297-b86f-44e0-9000-97881becc82d"
+    ]
+  },
+  {
+    "id": "00f625ee-f178-41bd-b000-6e2e80a1194a",
+    "username": "maya_patel19",
+    "displayName": "Maya Patel",
+    "bio": "Mixing genres, breaking rules",
+    "country": "IL",
+    "locale": "he-IL",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=maya_patel19-19",
+    "createdAt": "2025-11-13T11:11:12.884Z",
+    "posts": [
+      {
+        "id": "8bf81fb4-34ec-4d07-8000-ca34277df31d",
+        "userId": "00f625ee-f178-41bd-b000-6e2e80a1194a",
+        "title": "Desert Sunrise",
+        "description": "Fusion of Middle Eastern scales and modern production",
+        "audioUrl": "https://example.com/audio/00f625ee-f178-41bd-b000-6e2e80a1194a-track-1.mp3",
+        "likes": 171,
+        "comments": [
+          {
+            "id": "76d114e3-18fb-4076-9000-f8bd4ed45292",
+            "userId": "4d3c5666-83ab-4fe4-9000-967eaad3cc91",
+            "username": "logan_azouri312",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-04-30T11:11:12.887Z"
+          },
+          {
+            "id": "69e6acef-0e9c-43a6-a000-bfc861557f7c",
+            "userId": "31a76e6e-b542-4f31-9000-52701a398772",
+            "username": "quinn_kim315",
+            "text": "Keep it up!",
+            "createdAt": "2026-01-30T11:11:12.887Z"
+          },
+          {
+            "id": "c7c7c5f8-3ba0-41de-9000-74ff7a2748e6",
+            "userId": "52785248-66a1-4523-b000-6687d1dd0a67",
+            "username": "rina_peretz225",
+            "text": "This hits different",
+            "createdAt": "2025-08-04T11:11:12.887Z"
+          },
+          {
+            "id": "bfd24a0d-9238-4a95-a000-cd1e56cf6447",
+            "userId": "90651838-f765-4007-a000-cbdf8c7ece0a",
+            "username": "tal_williams20",
+            "text": "This hits different",
+            "createdAt": "2026-02-02T11:11:12.887Z"
+          },
+          {
+            "id": "22ef311c-a843-41d3-9000-35dfd8e9b5d4",
+            "userId": "d5477ab2-021d-4916-8000-841d7c9eae90",
+            "username": "yael_nguyen38",
+            "text": "Amazing vibes",
+            "createdAt": "2025-11-21T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-09-17T11:11:12.887Z"
+      },
+      {
+        "id": "43f3b53b-1ae3-4b56-b000-356c966cd5b4",
+        "userId": "00f625ee-f178-41bd-b000-6e2e80a1194a",
+        "title": "Wave Collapse",
+        "description": "A journey through rhythm and melody",
+        "audioUrl": "https://example.com/audio/00f625ee-f178-41bd-b000-6e2e80a1194a-track-2.mp3",
+        "likes": 363,
+        "comments": [
+          {
+            "id": "52971bac-3367-4860-8000-ce02a3d9fdd2",
+            "userId": "86dda9fd-d21a-4704-a000-758b637444c0",
+            "username": "tamar_cohen129",
+            "text": "Love this track",
+            "createdAt": "2025-05-14T11:11:12.887Z"
+          },
+          {
+            "id": "5b43fd77-7874-4d40-a000-bce699e43610",
+            "userId": "45597e3f-cc61-4807-a000-5af6f50e0fd5",
+            "username": "yonatan_levy67",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-06-17T11:11:12.887Z"
+          },
+          {
+            "id": "9aeef95c-1587-4b23-8000-816589294837",
+            "userId": "12057dcb-31ad-4d7d-b000-4a23d3574c30",
+            "username": "rina_azouri162",
+            "text": "This hits different",
+            "createdAt": "2026-01-05T11:11:12.887Z"
+          },
+          {
+            "id": "0b78a356-d141-460a-a000-7ecd6769e06d",
+            "userId": "4ae81867-d608-46da-8000-bc269d6883d0",
+            "username": "amir_azouri117",
+            "text": "So good!",
+            "createdAt": "2025-05-11T11:11:12.887Z"
+          },
+          {
+            "id": "34184b08-21a9-48f8-a000-f9f1e4b48cb2",
+            "userId": "f1986e5f-f13a-4325-8000-040e5c467b52",
+            "username": "itay_kim4",
+            "text": "Pure fire 🎵",
+            "createdAt": "2026-02-04T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-08-16T11:11:12.887Z"
+      },
+      {
+        "id": "51214610-bf65-4470-a000-0592704a8d45",
+        "userId": "00f625ee-f178-41bd-b000-6e2e80a1194a",
+        "title": "Neon Shadows",
+        "description": "Minimal techno for maximum impact",
+        "audioUrl": "https://example.com/audio/00f625ee-f178-41bd-b000-6e2e80a1194a-track-3.mp3",
+        "likes": 54,
+        "comments": [
+          {
+            "id": "9e7a3286-7a7b-42ed-9000-f049b5eef447",
+            "userId": "bcb6c932-f800-4523-a000-e896f3fb861c",
+            "username": "shira_shapiro217",
+            "text": "This hits different",
+            "createdAt": "2025-10-23T11:11:12.887Z"
+          }
+        ],
+        "createdAt": "2025-08-31T11:11:12.887Z"
+      },
+      {
+        "id": "7f9e5598-e879-4e6f-a000-1e96bf1ce8eb",
+        "userId": "00f625ee-f178-41bd-b000-6e2e80a1194a",
+        "title": "Deep Blue",
+        "description": "Fusion of Middle Eastern scales and modern production",
+        "audioUrl": "https://example.com/audio/00f625ee-f178-41bd-b000-6e2e80a1194a-track-4.mp3",
+        "likes": 205,
+        "comments": [
+          {
+            "id": "a77ffca0-29bf-423f-9000-70e937b9ad69",
+            "userId": "80a529c5-1cbd-4ed4-a000-52cda5f5f251",
+            "username": "cameron_levy364",
+            "text": "Keep it up!",
+            "createdAt": "2026-02-02T11:11:12.887Z"
+          },
+          {
+            "id": "f942df82-b193-4815-8000-81df1b88d59e",
+            "userId": "83e39ce9-57b8-4818-a000-40e87d8a3a1a",
+            "username": "yonatan_shapiro91",
+            "text": "Love this track",
+            "createdAt": "2026-02-04T11:11:12.888Z"
+          },
+          {
+            "id": "ebfb847a-1c0c-4a22-8000-aa53b5a18c50",
+            "userId": "f5209492-48b0-4c0c-9000-b642c2d04043",
+            "username": "yonatan_garcia32",
+            "text": "Absolutely stunning",
+            "createdAt": "2025-04-21T11:11:12.888Z"
+          },
+          {
+            "id": "0edd1309-ed90-4a0f-b000-2bca4f9fb682",
+            "userId": "4dbabd16-dbd4-420c-8000-48c14b01131f",
+            "username": "dani_goldberg3",
+            "text": "More please!",
+            "createdAt": "2025-11-20T11:11:12.888Z"
+          }
+        ],
+        "createdAt": "2025-08-30T11:11:12.888Z"
+      },
+      {
+        "id": "127651b4-9343-4bf6-8000-b50448bb5bb6",
+        "userId": "00f625ee-f178-41bd-b000-6e2e80a1194a",
+        "title": "Digital Mirage",
+        "description": "Minimal techno for maximum impact",
+        "audioUrl": "https://example.com/audio/00f625ee-f178-41bd-b000-6e2e80a1194a-track-5.mp3",
+        "likes": 51,
+        "comments": [
+          {
+            "id": "8332f4a9-ac5c-409c-a000-b6069d972631",
+            "userId": "475b4297-b86f-44e0-9000-97881becc82d",
+            "username": "tal_patel28",
+            "text": "Pure fire 🎵",
+            "createdAt": "2025-05-25T11:11:12.888Z"
+          },
+          {
+            "id": "b4bd02c0-2452-49a2-9000-86b189fee919",
+            "userId": "282274c6-15d4-4914-a000-05c5aed150d7",
+            "username": "oren_martinez142",
+            "text": "More please!",
+            "createdAt": "2025-05-05T11:11:12.888Z"
+          },
+          {
+            "id": "927a4154-e73c-4ed6-9000-622f8aa587a6",
+            "userId": "832f79b2-7356-43c2-8000-b55200f2b0eb",
+            "username": "tal_martinez36",
+            "text": "This is incredible! 🔥",
+            "createdAt": "2025-12-05T11:11:12.888Z"
+          },
+          {
+            "id": "0b344e99-3a55-42db-b000-be77ffebac85",
+            "userId": "63807a6f-13ac-4d6a-a000-675aa8a00dcd",
+            "username": "amir_williams179",
+            "text": "Love this track",
+            "createdAt": "2025-04-28T11:11:12.888Z"
+          },
+          {
+            "id": "ee796693-4078-483f-8000-a67972738693",
+            "userId": "ae08b9e0-aa0a-4a3c-b000-80e2d097c267",
+            "username": "avi_smith122",
+            "text": "Keep it up!",
+            "createdAt": "2026-02-17T11:11:12.888Z"
+          }
+        ],
+        "createdAt": "2026-01-27T11:11:12.888Z"
+      }
+    ],
+    "followingIds": [
+      "81dad8c1-9b6b-43d3-9000-f0a3cfddcb5a",
+      "9d4967b6-ba06-46ee-9000-626d306c6e5f",
+      "ab5cd7aa-db91-4b1b-8000-93322b0a7c67",
+      "63985eca-5a8f-4496-8000-1d93a24ae82d"
+    ]
+  }
+]
